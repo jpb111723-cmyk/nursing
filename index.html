@@ -94,7 +94,7 @@ details{background:var(--card);border:2px solid var(--line);border-radius:12px;p
 
 </div>
 <script>
-const KEY='nursing_adhd_v1',L=['A','B','C','D'],$=id=>document.getElementById(id);
+const KEY='nursing_v1',L=['A','B','C','D'],$=id=>document.getElementById(id);
 const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
 const hash=s=>{let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return(h>>>0).toString(36)};
 const pick=a=>a[Math.random()*a.length|0];
