@@ -1,0 +1,4 @@
+[
+  { "id": "fundamentals", "name": "Fundamentals of Nursing", "file": "questions/fundamentals.txt" },
+  { "id": "pharmacology", "name": "Pharmacology Basics", "file": "questions/pharmacology.txt" }
+]

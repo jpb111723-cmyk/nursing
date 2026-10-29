@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nursing Reviewer</title>
+<style>
+:root{--bg:#faf6ee;--card:#fff;--ink:#23303a;--mute:#66747e;--line:#e3dccb;--accent:#2f7f79;--accent-ink:#fff;--ok:#2f7d57;--ok-bg:#e3f2e9;--miss:#a8661a;--miss-bg:#fbeeda}
+@media(prefers-color-scheme:dark){:root{--bg:#151c20;--card:#1e282d;--ink:#e8eef0;--mute:#97a8b0;--line:#33434a;--accent:#5bb5ad;--accent-ink:#0f1a1c;--ok:#74c79b;--ok-bg:#1d3a2c;--miss:#e5ac66;--miss-bg:#3b2d17}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:1rem/1.55 ui-rounded,"Segoe UI",system-ui,sans-serif}
+#app{max-width:640px;margin:0 auto;padding:20px 16px 60px}
+.screen{display:none}.screen.on{display:block}
+h1{font-size:1.7rem;margin:8px 0 4px;line-height:1.2}h2{font-size:1.3rem;margin:0 0 12px}
+.sub,.mute{color:var(--mute)}.small{font-size:.9rem}
+button,select,textarea{font:inherit;color:inherit}
+button:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.btn{border:2px solid var(--line);background:var(--card);border-radius:14px;padding:14px 18px;min-height:52px;cursor:pointer;font-weight:600;width:100%}
+.btn.pri{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.btn.link{border:none;background:none;width:auto;min-height:0;padding:8px;color:var(--mute);font-weight:500;text-decoration:underline}
+.row{display:flex;gap:8px;margin:14px 0;flex-wrap:wrap}
+.seg{flex:1;min-width:90px;text-align:center;padding:10px;border-radius:12px;border:2px solid var(--line);background:var(--card);cursor:pointer;font-weight:600}
+.seg.on{border-color:var(--accent);background:var(--accent);color:var(--accent-ink)}
+.topic{display:block;text-align:left;width:100%;background:var(--card);border:2px solid var(--line);border-radius:16px;padding:16px;margin-bottom:10px;cursor:pointer}
+.topic:hover{border-color:var(--accent)}
+.topic b{display:block;font-size:1.08rem}
+.bar{height:8px;background:var(--line);border-radius:8px;margin-top:10px;overflow:hidden}.bar i{display:block;height:100%;background:var(--ok)}
+.dots{display:flex;gap:6px;margin-bottom:16px;align-items:center}
+.dots i{flex:1;height:8px;border-radius:8px;background:var(--line)}
+.dots i.cur{background:var(--accent)}.dots i.r{background:var(--ok)}.dots i.m{background:var(--miss)}
+.qcard{background:var(--card);border:2px solid var(--line);border-radius:18px;padding:20px;margin-bottom:14px}
+.qtext{font-size:1.2rem;font-weight:600;line-height:1.5;margin:6px 0 0}
+.choice{display:flex;gap:12px;align-items:flex-start;width:100%;text-align:left;background:var(--card);border:2px solid var(--line);border-radius:14px;padding:14px;margin-bottom:10px;min-height:58px;cursor:pointer}
+.choice:hover:not(:disabled){border-color:var(--accent)}
+.choice .l{flex:none;width:30px;height:30px;border-radius:50%;background:var(--line);display:grid;place-items:center;font-weight:700;font-size:.9rem}
+.choice:disabled{cursor:default;opacity:.7}
+.choice.right{border-color:var(--ok);background:var(--ok-bg);opacity:1}.choice.right .l{background:var(--ok);color:var(--card)}
+.choice.wrong{border-color:var(--miss);background:var(--miss-bg);opacity:1}.choice.wrong .l{background:var(--miss);color:var(--card)}
+#fb{border-radius:14px;padding:14px 16px;margin:6px 0 14px}
+#fb.ok{background:var(--ok-bg);color:var(--ok)}#fb.no{background:var(--miss-bg);color:var(--miss)}
+#fb p{margin:6px 0 0;color:var(--ink)}
+.top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+textarea{width:100%;min-height:180px;padding:12px;border:2px solid var(--line);border-radius:12px;background:var(--card)}
+select{width:100%;padding:12px;border:2px solid var(--line);border-radius:12px;background:var(--card);margin-bottom:12px}
+details{background:var(--card);border:2px solid var(--line);border-radius:12px;padding:10px 14px;margin:12px 0}
+.big{font-size:2.4rem;font-weight:800;margin:0;color:var(--accent)}
+.note{background:var(--miss-bg);color:var(--ink);padding:12px 14px;border-radius:12px;margin:12px 0}
+</style>
+</head>
+<body>
+<div id="app">
+
+<section id="s-home" class="screen on">
+  <div class="top"><div><h1>Nursing Reviewer</h1><p class="sub" id="today">Pick a topic. Tiny sessions count.</p></div>
+  <button class="btn link" id="fs" title="Change text size">Aa</button></div>
+  <p class="small mute" style="margin:16px 0 0">How much right now?</p>
+  <div class="row" id="sizes">
+    <button class="seg" data-n="1">Just 1</button><button class="seg" data-n="5">Sprint of 5</button><button class="seg" data-n="10">Sprint of 10</button>
+  </div>
+  <div id="topics"></div>
+  <p class="note" id="warn" hidden></p>
+  <div class="row"><button class="btn" id="go-add">＋ Add my own questions</button></div>
+</section>
+
+<section id="s-run" class="screen">
+  <div class="top"><button class="btn link" id="quit">← Stop here</button><span class="small mute" id="tlabel"></span></div>
+  <div class="dots" id="dots"></div>
+  <div class="qcard"><p class="qtext" id="qtext"></p></div>
+  <div id="choices"></div>
+  <div id="fb" hidden></div>
+  <button class="btn pri" id="next" hidden>Next →</button>
+  <div style="text-align:center"><button class="btn link" id="skip">Skip for now</button></div>
+</section>
+
+<section id="s-done" class="screen">
+  <h2 id="d-title">Sprint done</h2>
+  <p class="big" id="d-score"></p>
+  <p id="d-msg" class="sub"></p>
+  <details id="d-missed" hidden><summary>Look at the ones to revisit</summary><div id="d-list"></div></details>
+  <p class="note" id="d-break" hidden>That's 3 sprints. Good moment to stretch, drink water, or look out a window.</p>
+  <div class="row"><button class="btn pri" id="again">Another sprint</button></div>
+  <div class="row"><button class="btn" id="home1">Back to topics</button></div>
+</section>
+
+<section id="s-add" class="screen">
+  <button class="btn link" data-home>← Back</button>
+  <h2>Add my own questions</h2>
+  <select id="a-topic"></select>
+  <p class="small mute">Blank line between questions. Format: question, A. B. C. D., then Answer: X. An optional "Why:" line shows after answering. Saved in this browser only.</p>
+  <textarea id="a-text" placeholder="Which site is most commonly used to check an adult's pulse?&#10;A. Femoral&#10;B. Popliteal&#10;C. Radial&#10;D. Pedal&#10;Answer: C&#10;Why: Easy to reach."></textarea>
+  <div class="row"><button class="btn pri" id="a-save">Save questions</button></div>
+  <p id="a-fb" class="small"></p>
+</section>
+
+</div>
+<script>
+const KEY='nursing_adhd_v1',L=['A','B','C','D'],$=id=>document.getElementById(id);
+const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
+const hash=s=>{let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return(h>>>0).toString(36)};
+const pick=a=>a[Math.random()*a.length|0];
+const RIGHT=['Nice, that\'s it.','Got it.','Yes, locked in.','Correct. Keep rolling.'];
+const WRONG=['Not this one, and that\'s okay. It will come back.','Close call. Now you\'ll know it.','Missed it. This is exactly how it sticks.'];
+
+function parse(t){const out=[];t.replace(/\r\n?/g,'\n').split(/\n\s*\n+/).forEach(b=>{const q=[],c=[];let a=-1,w='';
+  b.split('\n').map(l=>l.trim()).filter(Boolean).forEach(l=>{let m;
+    if(c.length===4&&(m=l.match(/^(?:answer|ans)\s*[:.]\s*([A-D])\s*$/i))){a=L.indexOf(m[1].toUpperCase());return}
+    if(a>=0&&(m=l.match(/^(?:why|rationale)\s*:\s*(.+)$/i))){w=m[1];return}
+    if(a<0&&c.length<4&&q.length&&(m=l.match(new RegExp('^'+L[c.length]+'[.)]\\s+(.+)$','i')))){c.push(m[1]);return}
+    if(!c.length)q.push(l)});
+  if(q.length&&c.length===4&&a>=0)out.push({q:q.join(' '),c,a,w})});return out}
+
+let S={stats:{},custom:{},prefs:{n:5,fs:0},day:{d:'',n:0}},topics=[],bank={};
+try{const s=JSON.parse(localStorage.getItem(KEY));if(s)S=Object.assign(S,s)}catch(e){}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}};
+const today=()=>new Date().toISOString().slice(0,10);
+
+function build(){bank={};topics.forEach(t=>{const used=new Set();
+  bank[t.id]=(t.qs||[]).concat(S.custom[t.id]||[]).map(x=>{const b=t.id+'_'+hash(x.q+x.c.join('|'));let id=b,n=1;while(used.has(id))id=b+'_'+(++n);used.add(id);return{...x,id,t:t.id}})})}
+
+function show(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('on'));$(id).classList.add('on');window.scrollTo(0,0)}
+
+function home(){
+  document.documentElement.style.fontSize=['100%','115%','130%'][S.prefs.fs||0];
+  const n=S.day.d===today()?S.day.n:0;
+  $('today').textContent=n?`Today you've answered ${n}. Every one counts.`:'Pick a topic. Tiny sessions count.';
+  document.querySelectorAll('#sizes .seg').forEach(b=>b.classList.toggle('on',+b.dataset.n===S.prefs.n));
+  const box=$('topics');box.innerHTML='';
+  const card=(id,name,qs)=>{const ok=qs.filter(x=>S.stats[x.id]===true).length,todo=qs.length-ok;
+    const b=document.createElement('button');b.className='topic';
+    b.innerHTML=`<b></b><span class="small mute">${qs.length?`${qs.length} questions · ${todo} still to go`:'No questions yet'}</span><div class="bar"><i style="width:${qs.length?ok/qs.length*100:0}%"></i></div>`;
+    b.querySelector('b').textContent=name;b.onclick=()=>start(id);box.appendChild(b)};
+  if(topics.length>1)card('*','Mix of everything',topics.flatMap(t=>bank[t.id]||[]));
+  topics.forEach(t=>card(t.id,t.name,bank[t.id]||[]));
+  $('a-topic').innerHTML='';topics.forEach(t=>{const o=document.createElement('option');o.value=t.id;o.textContent=t.name;$('a-topic').appendChild(o)});
+}
+
+let run={};
+function start(tid){
+  const ids=tid==='*'?topics.map(t=>t.id):[tid],pool=ids.flatMap(i=>bank[i]||[]);
+  if(!pool.length){$('warn').hidden=false;$('warn').textContent='That topic has no questions yet. Add some to its file in questions/, or use "Add my own questions".';return}
+  const n=S.prefs.n,miss=shuf(pool.filter(x=>S.stats[x.id]===false)),nw=shuf(pool.filter(x=>S.stats[x.id]===undefined)),ok=shuf(pool.filter(x=>S.stats[x.id]===true));
+  const first=miss.slice(0,Math.ceil(n/2)).concat(nw),all=first.concat(miss.slice(Math.ceil(n/2)),ok);
+  run={tid,qs:shuf(all.slice(0,n)),i:0,res:[],locked:false,sprints:(run.sprints||0)};
+  show('s-run');draw();
+}
+function draw(){
+  const q=run.qs[run.i];run.locked=false;
+  $('tlabel').textContent=(topics.find(t=>t.id===q.t)||{}).name||'';
+  $('dots').innerHTML=run.qs.map((_,k)=>`<i class="${k<run.i?(run.res[k]==='r'?'r':run.res[k]==='m'?'m':''):k===run.i?'cur':''}"></i>`).join('');
+  $('qtext').textContent=q.q;
+  const box=$('choices');box.innerHTML='';
+  shuf([0,1,2,3]).forEach((ci,pos)=>{const b=document.createElement('button');b.className='choice';b.dataset.ci=ci;
+    b.innerHTML='<span class="l"></span><span></span>';b.firstChild.textContent=L[pos];b.lastChild.textContent=q.c[ci];
+    b.onclick=()=>answer(ci);box.appendChild(b)});
+  $('fb').hidden=true;$('next').hidden=true;$('skip').hidden=false;
+}
+function answer(ci){
+  if(run.locked)return;run.locked=true;
+  const q=run.qs[run.i],good=ci===q.a;
+  S.stats[q.id]=good;run.res[run.i]=good?'r':'m';
+  if(S.day.d!==today())S.day={d:today(),n:0};S.day.n++;save();
+  document.querySelectorAll('.choice').forEach(b=>{b.disabled=true;const c=+b.dataset.ci;if(c===q.a)b.classList.add('right');else if(c===ci)b.classList.add('wrong')});
+  const fb=$('fb');fb.hidden=false;fb.className=good?'ok':'no';
+  fb.innerHTML='<strong></strong><p></p>';fb.firstChild.textContent=good?pick(RIGHT):pick(WRONG)+' Answer: '+q.c[q.a];
+  fb.lastChild.textContent=q.w||'';
+  $('skip').hidden=true;const nx=$('next');nx.hidden=false;nx.textContent=run.i+1<run.qs.length?'Next →':'Finish';nx.focus();
+}
+function advance(){if(run.i+1<run.qs.length){run.i++;draw()}else finish()}
+function finish(){
+  run.sprints++;const done=run.res.filter(Boolean).length,right=run.res.filter(r=>r==='r').length;
+  const missed=run.qs.filter((_,k)=>run.res[k]==='m');
+  $('d-title').textContent=done?'Sprint done. Nice work.':'Okay, no pressure.';
+  $('d-score').textContent=done?`${right} of ${done} right`:'0 answered';
+  $('d-msg').textContent=missed.length?'The ones you missed will come back first next time. That\'s the plan working.':done?'Clean run. Those are set aside until you want a refresher.':'Showing up still counts. Try just 1 next time.';
+  $('d-missed').hidden=!missed.length;
+  $('d-list').innerHTML='';missed.forEach(q=>{const p=document.createElement('p');p.innerHTML='<strong></strong><br><span class="mute"></span>';p.firstChild.textContent=q.q;p.lastChild.textContent='Answer: '+q.c[q.a]+(q.w?' — '+q.w:'');$('d-list').appendChild(p)});
+  $('d-break').hidden=run.sprints<3||run.sprints%3;
+  show('s-done');
+}
+
+$('next').onclick=advance;
+$('skip').onclick=()=>{run.res[run.i]=0;advance()};
+$('quit').onclick=()=>{if(run.res.some(Boolean))finish();else{show('s-home');home()}};
+$('again').onclick=()=>start(run.tid);
+$('home1').onclick=()=>{show('s-home');home()};
+$('sizes').onclick=e=>{const n=e.target.dataset.n;if(n){S.prefs.n=+n;save();home()}};
+$('fs').onclick=()=>{S.prefs.fs=((S.prefs.fs||0)+1)%3;save();home()};
+$('go-add').onclick=()=>{$('a-fb').textContent='';show('s-add')};
+document.querySelectorAll('[data-home]').forEach(b=>b.onclick=()=>{show('s-home');home()});
+$('a-save').onclick=()=>{
+  const id=$('a-topic').value;if(!id){$('a-fb').textContent='Add a topic to topics.json first.';return}
+  const qs=parse($('a-text').value);
+  if(!qs.length){$('a-fb').textContent='Could not read any questions. Check each has A–D choices and an Answer line.';return}
+  (S.custom[id]=S.custom[id]||[]).push(...qs);save();build();$('a-text').value='';$('a-fb').textContent='Saved '+qs.length+' question(s).';
+};
+document.addEventListener('keydown',e=>{
+  if(!$('s-run').classList.contains('on')||e.target.tagName==='TEXTAREA')return;
+  const k=e.key.toLowerCase(),i='abcd'.indexOf(k)>=0?'abcd'.indexOf(k):'1234'.indexOf(k);
+  if(i>=0&&!run.locked){const b=$('choices').children[i];if(b)b.click()}
+  else if(e.key==='Enter'&&run.locked&&e.target.id!=='next')advance();
+});
+
+(async()=>{
+  try{
+    const list=await (await fetch(new URL('topics.json',document.baseURI).href)).json();
+    topics=await Promise.all(list.map(async t=>{try{const r=await fetch(new URL(t.file,document.baseURI).href);if(!r.ok)throw 0;return{...t,qs:parse(await r.text())}}catch(e){return{...t,qs:[],bad:1}}}));
+    const bad=topics.filter(t=>t.bad).map(t=>t.name);
+    if(bad.length){$('warn').hidden=false;$('warn').textContent='Could not load: '+bad.join(', ')+'. Check the file paths in topics.json.'}
+  }catch(e){$('warn').hidden=false;$('warn').textContent='Could not load topics.json. If you opened this file by double-clicking, host it on GitHub Pages or run a local server instead.'}
+  build();home();
+})();
+</script>
+</body>
+</html>
