@@ -1,4 +1,4 @@
-# Nursing Reviewer (ADHD-friendly)
+# Nursing Reviewer
 
 Short sprints, one question at a time, instant feedback, no penalties.
 
