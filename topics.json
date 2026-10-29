@@ -1,4 +1,5 @@
 [
   { "id": "fundamentals", "name": "Fundamentals of Nursing", "file": "questions/fundamentals.txt" },
-  { "id": "pharmacology", "name": "Pharmacology Basics", "file": "questions/pharmacology.txt" }
+  { "id": "pharmacology", "name": "Pharmacology Basics", "file": "questions/pharmacology.txt" },
+  { "id": "leadership-management", "name": "Nursing Leadership and Management", "file": "questions/leadership-management.txt" }
 ]
