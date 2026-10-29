@@ -2397,3 +2397,1603 @@ C. No contract
 D. An implied contract
 Answer: D
 Why: Conduct shows consent, forming an implied contract.
+
+Nurse Manager Lopez is asked by a new graduate how a nurse leader differs from a nurse manager. Which statement best explains the difference?
+A. Leaders gain power through personal influence and trust, while managers hold legitimate power delegated by the organization
+B. Leaders hold formal job titles, while managers have no delegated authority
+C. Leaders focus on budget maintenance and daily operations, while managers focus on vision and innovation
+D. Leaders and managers both derive their power only from their position in the hierarchy
+Answer: A
+Why: Leaders obtain power through influence and credibility without necessarily having a delegated title, whereas managers have legitimate authority from their position.
+
+A staff nurse with no formal title persuades her colleagues to adopt a new hand-hygiene reminder system through her credibility and enthusiasm. Which source of power is she using?
+A. Personal influence typical of leadership
+B. Formal position power of a manager
+C. Legitimate authority delegated by the institution
+D. Coercive power over subordinates
+Answer: A
+Why: Leaders without formal authority influence others through trust and professional credibility.
+
+During a staff meeting, Chief Nurse Rivera focuses on setting a long-term vision, challenging the status quo, and motivating staff toward change. Which dimension is she displaying?
+A. Scientific management
+B. Leadership
+C. Management
+D. Bureaucracy
+Answer: B
+Why: Leadership centers on vision, innovation, long-term change, and motivating staff, while management centers on processes, order, and stability.
+
+Head Nurse Dizon spends her day maintaining the unit budget, ensuring procedures are followed, and controlling resources to meet targets. Which function is she primarily performing?
+A. Management
+B. Servant leadership
+C. Transformational leadership
+D. Leadership
+Answer: A
+Why: Management emphasizes processes, order, stability, budget maintenance, and daily operations.
+
+A rural district hospital receives dozens of victims from a highway collision. The Chief Nurse issues direct, clear assignments for triage, resuscitation, and surgical transfer without consulting staff. Which leadership style is she using?
+A. Democratic
+B. Autocratic
+C. Laissez-faire
+D. Servant
+Answer: B
+Why: An autocratic style allows fast, unilateral decisions that are vital in emergencies.
+
+A nurse manager of a unit composed of highly specialized, self-directed experts gives them complete freedom in decisions and rarely intervenes. Which style is this?
+A. Transactional
+B. Democratic
+C. Laissez-faire
+D. Autocratic
+Answer: C
+Why: Laissez-faire leadership offers complete freedom and suits highly specialized, self-directed experts.
+
+A unit manager gathers the team, discusses a proposed new rotation, and decides only after consensus is reached. Which leadership style does she demonstrate?
+A. Democratic
+B. Autocratic
+C. Great man style
+D. Laissez-faire
+Answer: A
+Why: Democratic leaders engage the team in decisions through consensus.
+
+A leader inspires nurses through a shared vision, stimulates them intellectually, and gives individual consideration, resulting in high engagement. Which leadership theory is illustrated?
+A. Path-goal theory
+B. Transformational leadership
+C. Contingency leadership
+D. Trait theory
+Answer: B
+Why: Transformational leadership uses vision, intellectual stimulation, and individual consideration to inspire commitment.
+
+Nurse Manager Cruz prioritizes listening empathetically, building community, and supporting the personal and professional growth of her staff above hierarchy. Which approach is this?
+A. Bureaucratic leadership
+B. Servant leadership
+C. Transactional leadership
+D. Autocratic leadership
+Answer: B
+Why: Servant leaders prioritize serving others and supporting staff growth.
+
+A manager determines that she will use a task-oriented style because her relationship with staff is poor, the task is highly structured, and her power is strong. Which model is she applying?
+A. Fiedler's contingency model
+B. Hersey and Blanchard's situational model
+C. Lewin's change model
+D. Vroom's expectancy theory
+Answer: A
+Why: Fiedler matches leadership style with leader-member relations, task structure, and position power.
+
+A nurse manager gives step-by-step directions to a new nurse, then gradually shifts to supportive coaching, and finally delegates tasks and only monitors as the nurse grows more willing and able. Which model explains this?
+A. Fiedler's contingency model
+B. Hersey and Blanchard's situational leadership
+C. Theory Z
+D. Herzberg's two-factor theory
+Answer: B
+Why: Situational leadership adjusts style to follower readiness, moving from directive to supportive to delegating.
+
+A leader believes that effective leaders are born with traits such as courage and decisiveness. Which theory reflects this belief?
+A. Transformational theory
+B. Servant leadership
+C. Great Man and Trait theories
+D. Situational theory
+Answer: C
+Why: Great Man and Trait theories assume leaders are born with inherent traits, although modern views recognize that traits can be cultivated.
+
+A nurse manager tells staff, "The more ready and willing you are, the less supervision and support you will need from me." This statement is most consistent with:
+A. Scientific management
+B. Great Man theory
+C. Contingency (situational) leadership focused on follower readiness
+D. Autocratic leadership
+Answer: C
+Why: The more ready the followers, the less the need for leader support and supervision.
+
+Frederick Taylor's scientific management would be best illustrated by which unit practice?
+A. Allowing staff to self-schedule based on preference
+B. Letting staff decide the unit's goals by consensus
+C. Rotating nurses randomly among all tasks
+D. Standardizing tasks and dividing work so each worker specializes to maximize efficiency
+Answer: D
+Why: Scientific management emphasizes task standardization, division of labor, and functional foremen.
+
+A hospital operates with strict written rules, a clear chain of authority, detailed record keeping, and impersonal decision making. Which theory underlies this organization?
+A. McGregor's Theory Y
+B. Taylor's scientific management
+C. Ouchi's Theory Z
+D. Weber's bureaucracy
+Answer: D
+Why: Weber's bureaucracy emphasizes formal rules, a clear authority hierarchy, record keeping, and impersonal management.
+
+Which set of functions did Henri Fayol identify in administrative management?
+A. Hygiene, motivation, recognition, achievement, and growth
+B. Planning, organizing, staffing, directing, and evaluating
+C. Unfreezing, moving, and refreezing
+D. Planning, organizing, commanding, coordinating, and controlling
+Answer: D
+Why: Fayol's administrative functions include planning, organizing, commanding, coordinating, and controlling.
+
+A nurse manager believes staff dislike work, need close supervision, and respond mainly to financial incentives and threats. Which assumption is she using?
+A. Herzberg's motivator theory
+B. Theory Z
+C. Theory X
+D. Theory Y
+Answer: C
+Why: Theory X assumes workers inherently dislike work and require coercion and strict supervision.
+
+A manager delegates unit quality audits and shift scheduling to staff nurses because she believes employees are self-directed and creative when committed to goals. This is an application of:
+A. Fayol's administrative principles
+B. Theory Y and job enrichment
+C. Weber's bureaucracy
+D. Theory X and scientific management
+Answer: B
+Why: Theory Y assumes work is natural and employees are self-directed, supporting enrichment through autonomy.
+
+A hospital director introduces collective decision-making, long-term employment, mentoring, and peer evaluation. This reflects which theory?
+A. Theory X
+B. Theory Z
+C. Scientific management
+D. Fayol's theory
+Answer: B
+Why: Ouchi's Theory Z combines American and Japanese practices, including collective decision making, long-term employment, and mentoring.
+
+A nurse complains about her low salary and poor working conditions, but achievement and recognition are present. According to Herzberg, salary and working conditions are:
+A. Hygiene factors that prevent dissatisfaction
+B. Outcomes of valence
+C. Motivator factors that drive performance
+D. Acquired needs
+Answer: A
+Why: Salary, policies, and working conditions are hygiene (maintenance) factors; achievement and recognition are motivators.
+
+Which factor would a nurse manager classify as a motivator according to Herzberg's two-factor theory?
+A. A just salary
+B. A comfortable lounge
+C. Recognition for achievement and meaningful work
+D. Clear hospital policies
+Answer: C
+Why: Motivators such as achievement, recognition, and meaningful work drive performance.
+
+A nurse manager views the hospital as an open system where nursing personnel, equipment, and supplies go through planning, organizing, staffing, directing, and controlling to produce patient outcomes. Which approach is this?
+A. Bureaucratic approach
+B. Systems approach
+C. Scientific approach
+D. Behavioral approach
+Answer: B
+Why: The systems approach views an institution as an interrelated open system with inputs, processing, and outputs.
+
+The chief nurse is developing a 5-year direction for the nursing service, including vision and policy. Which type of planning is this?
+A. Strategic planning
+B. Tactical scheduling
+C. Contingency planning
+D. Operational planning
+Answer: A
+Why: Strategic planning focuses on long-term direction, vision, and policy, usually done at the executive level.
+
+A head nurse prepares a list of actions to accomplish for the day, distributes an agenda for tomorrow's meeting, and reviews the unit operational plan. Which type of planning is this?
+A. Benchmarking
+B. Operational planning
+C. Forecasting
+D. Strategic planning
+Answer: B
+Why: Operational planning deals with day-to-day maintenance activities and unit planning.
+
+The nursing director is conducting a SWOT analysis. Which item is a strength?
+A. Understaffing in the wards
+B. Highly qualified nursing and medical staff
+C. Competition from surrounding hospitals
+D. Shortage of nurses due to migration
+Answer: B
+Why: Strengths are internal advantages such as qualified staff; competition and shortages are threats, while understaffing is a weakness.
+
+In a SWOT analysis, which finding should be classified as a weakness?
+A. Legal threats and increasing charges
+B. Expansion of community health programs
+C. Scarcity of medical supplies and equipment
+D. Strong accreditation status
+Answer: C
+Why: Weaknesses are internal inadequacies such as scarce supplies, understaffing, or outdated infrastructure.
+
+A hospital identifies that a neighboring medical center is recruiting its nurses with higher salaries. In SWOT terms, this is a:
+A. Threat
+B. Strength
+C. Opportunity
+D. Weakness
+Answer: A
+Why: Competition and healthcare worker brain drain are external threats.
+
+A hospital finds that the DOH plans to launch new community health programs in its area that the hospital can join. How should this be classified in a SWOT analysis?
+A. Weakness
+B. Strength
+C. Threat
+D. Opportunity
+Answer: D
+Why: Expansion of community health programs and referral networks are external opportunities.
+
+The statement "St. Luke's Medical Center will be an internationally recognized academic medical center by 2020" is an example of a:
+A. Objective
+B. Philosophy
+C. Vision
+D. Mission
+Answer: C
+Why: A vision describes the desired future state of the organization.
+
+Which statement is an example of a mission?
+A. "Every individual has worth, dignity, and autonomy."
+B. "We will be a leading hospital by 2030."
+C. "We are committed to deliver state-of-the-art healthcare because the needs of our patients come first."
+D. "The nursing staff will complete 100% of medication reconciliation by June."
+Answer: C
+Why: A mission states the organization's purpose and what it does; a philosophy expresses beliefs and values.
+
+Which statement best distinguishes goals from objectives?
+A. Objectives are set by the board, goals by staff nurses
+B. Goals are broad statements of end results, while objectives are specific statements of end results
+C. Goals and objectives are always short term
+D. Goals are specific and measurable, while objectives are broad and general
+Answer: B
+Why: Goals are broad and objectives are specific statements of end results.
+
+A hospital statement that says, "The worth, dignity and autonomy of individuals are recognized, as each individual's right to self-direction" is most likely part of the hospital's:
+A. Vision
+B. Philosophy
+C. Budget
+D. Objectives
+Answer: B
+Why: A philosophy expresses the organization's beliefs and values.
+
+Nurse Manager Santos notices she is frequently interrupted by phone calls and visitors and does paperwork that could be delegated. Which concept applies?
+A. Cost control
+B. Time analysis per procedure
+C. External time wasters
+D. Time savers
+Answer: C
+Why: External time wasters include interruptions, doing work that could be delegated, unnecessary paperwork, and socializing.
+
+A head nurse wants to buy replacement infusion pumps for the operating room with an expected 7-year service life. Which budget should she submit?
+A. Capital budget
+B. Operating budget
+C. Flexible budget
+D. Cash budget
+Answer: A
+Why: A capital budget covers major equipment purchases based on cost and life expectancy.
+
+Which expense belongs in the operating budget?
+A. Replacement of the hospital's ambulance fleet
+B. Purchase of a new MRI machine
+C. Construction of a new wing
+D. Salaries of nursing personnel and daily medical supplies
+Answer: D
+Why: Operating budgets cover day-to-day supplies, pharmaceuticals, utilities, and salaries.
+
+A manager adjusts variable expenses such as supplies when the patient census increases. Which budget does this describe?
+A. Flexible budget
+B. Zero-based budget
+C. Cash budget
+D. Capital budget
+Answer: A
+Why: A flexible budget adjusts variable expenses according to need, such as changes in patient census.
+
+The finance office requires each unit manager to justify every line-item expense from zero for the new fiscal year, with no automatic roll-over. Which budgeting method is this?
+A. Flexible budgeting
+B. Cash budgeting
+C. Capital budgeting
+D. Zero-based budgeting
+Answer: D
+Why: Zero-based budgeting requires justification of every expense from a zero baseline each cycle.
+
+A nurse manager monitors costs, offers incentives for saving supplies, and uses careful planning, budgeting, reporting, and monitoring to use resources effectively. Which concept is she applying?
+A. Zero-based budgeting
+B. Benchmarking
+C. Cost management and cost control
+D. Strategic planning
+Answer: C
+Why: Cost control is the effective use of resources through planning, budgeting, reporting, and monitoring.
+
+A formal statement of a principle or rule that members of an organization must follow is called a:
+A. Policy
+B. Job description
+C. Standard
+D. Procedure
+Answer: A
+Why: A policy is a formal statement of a rule that addresses an issue important to the organization's mission.
+
+A newly hired nurse is introduced to co-workers, shown the physical facilities, and oriented to the hospital's philosophy, policies, and organizational structure. This process is:
+A. Recruitment
+B. Screening
+C. Scheduling
+D. Orientation
+Answer: D
+Why: Orientation helps the new nurse become familiar with the environment, reducing anxiety and misunderstandings.
+
+According to the DOH administrative order cited in the course, what is the standard nurse-patient ratio in hospitals?
+A. 1:1 to 1:2
+B. 1:12 to 1:15
+C. 1:20 to 1:25
+D. 1:3 to 1:5
+Answer: B
+Why: The standard nurse-patient ratio is 1:12 to 1:15.
+
+A patient is convalescing, can bathe and feed himself, and is awaiting discharge. Which patient classification applies, and what are the nursing care hours (NCH) per day?
+A. Level III (intensive care), 4.5 NCH
+B. Level II (moderate care), 3.0 NCH
+C. Level I (minimal care), 1.5 NCH
+D. Level IV (highly specialized care), 6 to 9 NCH
+Answer: C
+Why: Level I patients are self-care patients needing 1.5 NCH per day.
+
+A post-operative patient needs assistance with hygiene and short-distance ambulation. Which level and NCH apply?
+A. Level II, 3.0 NCH
+B. Level III, 4.5 NCH
+C. Level I, 1.5 NCH
+D. Level IV, 6.0 NCH
+Answer: A
+Why: Moderately ill or recovering patients needing some assistance are Level II with 3.0 NCH.
+
+A completely dependent patient needs frequent complex medications and total care. What is the NCH per day and nurse to aide ratio?
+A. 6.0 NCH, 70:30
+B. 1.5 NCH, 55:45
+C. 3.0 NCH, 60:40
+D. 4.5 NCH, 65:35
+Answer: D
+Why: Level III (total care) requires 4.5 NCH with a 65:35 ratio.
+
+Nurse Dela Cruz is assigned to an ICU where patients are unstable and need continuous monitoring. Which level and NCH per patient per day are expected?
+A. Level I, 1.5 NCH
+B. Level III, 4.5 NCH
+C. Level IV, 6 to 9 NCH
+D. Level II, 3.0 NCH
+Answer: C
+Why: Level IV (highly specialized) patients need 6-9 NCH per day.
+
+A secondary hospital has 100 patients: 65% minimal, 30% moderate, 5% intensive care. How many total nursing care hours are needed per day (1.5, 3.0, and 4.5 NCH per level)?
+A. 195 NCH
+B. 210 NCH
+C. 150 NCH
+D. 250 NCH
+Answer: B
+Why: 65 x 1.5 = 97.5; 30 x 3 = 90; 5 x 4.5 = 22.5; total = 210 NCH.
+
+Using 210 NCH per day, a nurse manager computes the annual nursing care hours for 100 patients. What is the correct figure?
+A. 72,000 NCH per year
+B. 210,365 NCH per year
+C. 7,665 NCH per year
+D. 76,650 NCH per year
+Answer: D
+Why: 210 x 365 = 76,650 NCH per year.
+
+A primary hospital has 200 patients, with 70% minimal, 25% moderate, and 5% intensive care. How many NCH are needed daily?
+A. 300 NCH
+B. 360 NCH
+C. 450 NCH
+D. 405 NCH
+Answer: D
+Why: 140 x 1.5 = 210; 50 x 3 = 150; 10 x 4.5 = 45; total = 405 NCH.
+
+A tertiary hospital has 100 patients: 30% Level I, 45% Level II, 15% Level III, and 10% Level IV (use 6.0 NCH for Level IV). What is the total daily NCH?
+A. 307.5 NCH
+B. 340.5 NCH
+C. 250.0 NCH
+D. 285.0 NCH
+Answer: A
+Why: 30 x 1.5 = 45; 45 x 3 = 135; 15 x 4.5 = 67.5; 10 x 6 = 60; total = 307.5 NCH.
+
+A specialty tertiary hospital has 200 patients: 10% minimal, 25% moderate, 45% intensive, 20% highly specialized (use 6.0 NCH). How many NCH are needed per day?
+A. 615 NCH
+B. 750 NCH
+C. 825 NCH
+D. 900 NCH
+Answer: C
+Why: 20 x 1.5 = 30; 50 x 3 = 150; 90 x 4.5 = 405; 40 x 6 = 240; total = 825 NCH.
+
+A tertiary hospital with 250 patients needs 768.75 NCH per day. How many NCH are needed per year?
+A. 250,000 NCH
+B. 312,000 NCH
+C. 76,875 NCH
+D. 280,593.75 NCH
+Answer: D
+Why: 768.75 x 365 = 280,593.75 NCH per year.
+
+How many working hours per year does a nursing personnel work on a 40-hour week with 213 net working days at 8 hours per day?
+A. 1,729 hours
+B. 1,704 hours
+C. 2,920 hours
+D. 2,120 hours
+Answer: B
+Why: 213 x 8 = 1,704 working hours per year.
+
+Using 280,593.75 annual NCH and 1,704 working hours per year, how many base nursing personnel are needed?
+A. About 190
+B. About 125
+C. About 210
+D. About 165
+Answer: D
+Why: 280,593.75 / 1,704 = about 164.7, or 165 personnel.
+
+The base staffing need is 165 personnel for a 40-hour work week. If relievers are computed at 15%, how many relievers and what total staff are needed?
+A. 33 relievers; total 198
+B. 25 relievers; total 190
+C. 18 relievers; total 183
+D. 20 relievers; total 185
+Answer: B
+Why: 165 x 0.15 = 24.75 (25 relievers); 165 + 25 = 190.
+
+An employee averages 33 days of leave a year and works 213 days a year on a 40-hour week. What is the relief factor?
+A. 0.15
+B. 0.12
+C. 0.33
+D. 0.25
+Answer: A
+Why: 33 / 213 = 0.155, or 0.15 for a 40-hour week; for 48 hours, 33 / 265 = 0.12.
+
+Using the 65:35 nurse to aide ratio for a tertiary hospital, how many nurses and aides are needed from a total of 190 personnel?
+A. About 114 nurses and 76 aides
+B. About 133 nurses and 57 aides
+C. About 95 nurses and 95 aides
+D. About 124 nurses and 66 aides
+Answer: D
+Why: 190 x 0.65 = 123.5 nurses; 190 x 0.35 = 66.5 aides.
+
+Of 124 nurses in a hospital, how many should be assigned to the morning shift using the Philippine standard shift distribution?
+A. 22 nurses
+B. 62 nurses
+C. 56 nurses
+D. 46 nurses
+Answer: C
+Why: Morning = 45%, afternoon = 37%, night = 18%; 123.5 x 0.45 = about 56.
+
+Which shift distribution is used in the Philippines for staffing?
+A. Morning 45%, afternoon 37%, night 18%
+B. Morning 50%, afternoon 30%, night 20%
+C. Morning 40%, afternoon 40%, night 20%
+D. Morning 34%, afternoon 33%, night 33%
+Answer: A
+Why: The Philippine setup uses 45%, 37%, and 18%.
+
+In an 8-bed surgical ICU, the nurse manager assigns each patient to one nurse for the entire shift to ensure continuous monitoring. Which care delivery model is this?
+A. Team nursing
+B. Functional nursing
+C. Modular nursing
+D. Total patient care (case method)
+Answer: D
+Why: Total patient care assigns one nurse to a patient for the entire shift, common in ICU, CCU, and PACU.
+
+On a medical ward, one nurse gives all medications, another performs treatments, and an aide gives baths for all patients. Which model is being used?
+A. Team nursing
+B. Primary nursing
+C. Functional nursing
+D. Case management
+Answer: C
+Why: Functional nursing assigns tasks by skill and is efficient but fragmented.
+
+On the OB unit, a group of patients is cared for by an RN, an LPN, and a nursing assistant under a team leader. Which model is this?
+A. Functional nursing
+B. Total patient care
+C. Primary nursing
+D. Team nursing
+Answer: D
+Why: In team nursing, a group of staff with varying skills cares for a cohort of patients under a team leader.
+
+A nurse holds 24-hour responsibility for planning, implementing, and evaluating care of four to five patients from admission to discharge, assisted by associate nurses on other shifts. Which model is this?
+A. Team nursing
+B. Functional nursing
+C. Primary nursing
+D. Modular nursing
+Answer: C
+Why: Primary nursing gives 24-hour accountability and decentralizes authority and responsibility.
+
+A nurse manager organizes small teams composed of an RN and an aide to care for 8 to 12 patients in geographic modules. Which model is this?
+A. Functional nursing
+B. Modular nursing
+C. Primary nursing
+D. Total patient care
+Answer: B
+Why: Modular nursing is a geographic adaptation combining team and primary nursing.
+
+A chief nurse lets staff nurses collectively decide their monthly work schedule within criteria set by the head nurse. What type of scheduling is this?
+A. Rotating scheduling
+B. Centralized scheduling
+C. Decentralized scheduling
+D. Self-scheduling
+Answer: D
+Why: In self-scheduling, staff nurses choose their days and shifts within unit criteria.
+
+A nurse manager staffs and schedules her own unit without a central office. Which scheduling type is this?
+A. Centralized scheduling
+B. Self-scheduling
+C. Cyclic scheduling
+D. Decentralized scheduling
+Answer: D
+Why: Decentralized scheduling lets the nurse manager staff her own unit.
+
+Which guideline should the nurse manager observe when preparing a schedule?
+A. Keep schedules secret to avoid requests
+B. Grant exceptions often to make employees happy
+C. Use the schedule as a tool for discipline
+D. Post schedules in advance and give patient care priority when conflicts arise
+Answer: D
+Why: Advance posting reduces absenteeism, and patient care has priority over conflicting needs.
+
+A communication pattern where the middle person emerges as the leader and the arrangement is fast, accurate, and simple for problem solving is the:
+A. All-channel system
+B. Wheel system
+C. Circle system
+D. Chain system
+Answer: D
+Why: In a chain, the middle person emerges as the leader, and the position is stable.
+
+A complex and unpredictable situation requires the nurse manager to allow all members to communicate with each other freely. Which network is most appropriate?
+A. Wheel
+B. Chain
+C. All-channel
+D. Y-system
+Answer: C
+Why: The all-channel network is used for complicated and unpredictable environments.
+
+A hospital memo from the chief nurse to staff announcing a new policy is an example of which communication flow?
+A. Downward communication
+B. Upward communication
+C. Diagonal communication
+D. Lateral communication
+Answer: A
+Why: Downward communication includes directives, policies, and handbooks.
+
+Staff nurses submit incident reports and feedback to the head nurse. Which communication flow is this?
+A. Lateral
+B. Downward
+C. Upward
+D. Diagonal
+Answer: C
+Why: Upward communication provides input from staff to management.
+
+The head nurse of the ER coordinates patient transfers with the head nurse of the ICU. Which communication flow is this?
+A. Upward
+B. Downward
+C. Lateral
+D. Diagonal
+Answer: C
+Why: Lateral communication occurs between departments or personnel on the same level.
+
+Two nurses disagree over an assignment. Nurse A gives up her demand to maintain harmony and gives Nurse B exactly what she wants. Which conflict strategy is this?
+A. Compromising
+B. Avoiding
+C. Competing
+D. Accommodating
+Answer: D
+Why: Accommodating (smoothing) involves yielding to preserve harmony.
+
+When two nurses argue about shift preferences, the manager tells them to discuss it later and never follows up. Which conflict strategy is the manager using?
+A. Competing
+B. Avoiding
+C. Collaborating
+D. Compromising
+Answer: B
+Why: Avoiding means ignoring or postponing resolution of the conflict.
+
+Two units each give up some of their requested equipment so that both can have some. Which conflict strategy is this?
+A. Compromising
+B. Accommodating
+C. Collaborating
+D. Competing
+Answer: A
+Why: Compromising is a mutual trade-off in which both parties forfeit something.
+
+A nurse manager sits with two nurses, explores each person's underlying concerns, and designs a solution that satisfies both. Which strategy is this?
+A. Avoiding
+B. Accommodating
+C. Compromising
+D. Collaborating
+Answer: D
+Why: Collaborating is a win-win approach that addresses underlying concerns.
+
+A nurse insists on winning an argument with a colleague regardless of the effect on the relationship. Which conflict strategy is she using?
+A. Avoiding
+B. Accommodating
+C. Collaborating
+D. Competing
+Answer: D
+Why: Competing is win-lose, uncooperative, and overly assertive.
+
+During negotiation, a nurse manager says, "Let's focus on the interests behind our positions, not the positions themselves." This reflects which principle?
+A. Soft bargaining
+B. Hard bargaining
+C. Distributive bargaining
+D. Principled negotiation
+Answer: D
+Why: Principled negotiation focuses on interests, invents options for mutual gain, and uses objective criteria.
+
+Before meeting with the hospital administrator to negotiate nurse salaries, the union leader identifies the course of action she will take if no agreement is reached. This is her:
+A. Concession
+B. BATNA
+C. Impasse
+D. Deadlock
+Answer: B
+Why: BATNA is the best alternative to a negotiated agreement and sets the threshold for settlement.
+
+A negotiator who gives in quickly to avoid conflict and ends up feeling exploited and bitter is using which approach?
+A. Hard bargaining
+B. Integrative bargaining
+C. Soft bargaining
+D. Principled bargaining
+Answer: C
+Why: Soft negotiators make concessions quickly to preserve the relationship and often feel exploited.
+
+A nurse leader chooses a negotiation style in which each side maximizes joint outcomes through cooperation, sharing information, and mutual problem solving. Which style is this?
+A. Hard bargaining
+B. Integrative (win-win) bargaining
+C. Positional bargaining
+D. Distributive (win-lose) bargaining
+Answer: B
+Why: Integrative bargaining creates value through cooperation and mutual problem solving.
+
+A neutral third party helps two departments identify and discuss the issues behind a dispute and formulate compromise proposals on a voluntary basis. This process is:
+A. Litigation
+B. Collective bargaining
+C. Arbitration
+D. Mediation
+Answer: D
+Why: Mediation is voluntary dispute resolution in which a mediator helps parties clarify issues and explore compromise.
+
+In negotiation, neither side can prevail no matter how hard each tries, and no agreement is reached. This situation is called:
+A. Mediation
+B. Concession
+C. Deadlock or stalemate
+D. Interest
+Answer: C
+Why: A deadlock or stalemate occurs when neither side can prevail.
+
+Hospital management plans to adopt electronic health records. The chief nurse holds town halls to address fears and raise awareness of the need for change. Which phase of Lewin's model is this?
+A. Diffusion
+B. Refreezing
+C. Unfreezing
+D. Moving
+Answer: C
+Why: Unfreezing involves raising awareness and overcoming inertia.
+
+The chief nurse provides super-user training and bedside support while staff begin using the new electronic documentation system. Which phase of Lewin's model is this?
+A. Refreezing
+B. Moving (changing)
+C. Unfreezing
+D. Termination
+Answer: B
+Why: Moving involves implementing new processes.
+
+After the change, performance evaluations are updated to include audits of EHR documentation to make the new practice permanent. Which Lewin phase is this?
+A. Refreezing
+B. Diagnosis
+C. Moving
+D. Unfreezing
+Answer: A
+Why: Refreezing institutionalizes the change.
+
+A nurse manager listing "previous failure of change initiatives" as a barrier to a new protocol is identifying which force in force-field analysis?
+A. Unfreezing force
+B. Restraining force
+C. Driving force
+D. Neutral force
+Answer: B
+Why: Restraining forces are negative forces that maintain the status quo.
+
+In force-field analysis, which is a driving force for adoption of a new fall-prevention protocol?
+A. Administrative support and evidence of reduced fall rates
+B. Staff fear of increased workload
+C. Previous failed initiatives
+D. Lack of equipment
+Answer: A
+Why: Driving forces are positive forces that support the change initiative.
+
+Which model focuses on the role and responsibility of the change agent from diagnosis of the problem through termination of the helping relationship?
+A. Lewin's model
+B. Havelock's model only
+C. Rogers' diffusion model
+D. Lippitt's seven-phase model
+Answer: D
+Why: Lippitt's model emphasizes the change agent's role, including choosing an appropriate role and terminating the helping relationship.
+
+According to Rogers' diffusion of innovations, which group makes up the largest portion of adopters along with the late majority, at 34% each?
+A. Early adopters
+B. Innovators
+C. Laggards
+D. Early majority
+Answer: D
+Why: Innovators are 2.5%, early adopters 13.5%, early majority 34%, late majority 34%, and laggards 16%.
+
+A nurse on the unit eagerly tries every new device immediately after introduction. In Rogers' theory she is a(n):
+A. Early adopter
+B. Early majority
+C. Laggard
+D. Innovator
+Answer: D
+Why: Innovators are the first 2.5% who jump onboard new innovations.
+
+Nurse Villa is respected by peers, and many colleagues wait to see whether she accepts a new charting method before trying it. Which adopter category is she?
+A. Late majority
+B. Early adopter
+C. Laggard
+D. Innovator
+Answer: B
+Why: Early adopters are opinion leaders and taste makers.
+
+A nurse says, "I'll move to the new system only after it has been improved through a couple of versions and proven." Which Rogers category does this represent?
+A. Late majority
+B. Innovator
+C. Early majority
+D. Early adopter
+Answer: A
+Why: The late majority waits for improvements and proof points.
+
+A nurse believes she will perform well if she tries hard, that good performance will be rewarded, and that the reward is valuable to her. Which theory explains her motivation?
+A. Herzberg's two-factor theory
+B. Vroom's expectancy theory
+C. McClelland's acquired needs
+D. Adams' equity theory
+Answer: B
+Why: Motivation = expectancy x instrumentality x valence.
+
+Nurse Ramos believes that her extra effort will not lead to better performance ratings because the system is unfair. Which component of Vroom's theory is low?
+A. Expectancy or instrumentality
+B. Valence only
+C. Equity
+D. Hygiene
+Answer: A
+Why: High motivation requires all three components; if effort does not lead to performance or reward, motivation drops.
+
+A staff nurse who strives to excel and succeed in every task has a high need for:
+A. Security
+B. Power
+C. Achievement
+D. Affiliation
+Answer: C
+Why: McClelland's need for achievement is the drive to excel and succeed.
+
+A charge nurse who enjoys influencing others and directing the work of the team has a high need for:
+A. Power
+B. Affiliation
+C. Achievement
+D. Esteem
+Answer: A
+Why: The need for power is the desire to influence the behavior of others.
+
+A nurse who values close friendships and prefers working in harmony with colleagues has a high need for:
+A. Affiliation
+B. Autonomy
+C. Power
+D. Achievement
+Answer: A
+Why: Need for affiliation is the desire for interpersonal relationships.
+
+Nurse Bello notices that a colleague with the same workload and experience receives higher pay and recognition. She reduces her effort. Which theory explains this?
+A. Maslow's hierarchy
+B. McClelland's theory
+C. Adams' equity theory
+D. Vroom's expectancy theory
+Answer: C
+Why: Employees compare their outcome/input ratios with referent others; perceived inequity leads to reduced effort.
+
+A manager sets specific, challenging, but achievable goals with staff participation. Which outcome is most likely?
+A. No difference compared with no goals
+B. Higher performance and greater commitment
+C. Greater resistance to goals
+D. Lower performance because goals are difficult
+Answer: B
+Why: Accepted, specific, challenging yet achievable goals produce higher performance than no goals or easy goals.
+
+A manager praises nurses who submit complete documentation and ignores minor undesired behaviors rather than punishing them. Which principle is she using?
+A. Negative reinforcement
+B. Positive reinforcement
+C. Punishment
+D. Extinction only
+Answer: B
+Why: Positive reinforcement is preferred for its long-term effects, and ignoring undesired behavior is better than punishment.
+
+A nurse manager adds more tasks at the same level, such as having aides also handle vital sign monitoring. Which job design strategy is this?
+A. Job enlargement
+B. Job simplification
+C. Job rotation
+D. Job enrichment
+Answer: A
+Why: Job enlargement expands the scope of tasks horizontally.
+
+A manager gives staff nurses more autonomy and decision-making in running unit quality audits. Which job design strategy is this?
+A. Job enrichment
+B. Job rotation
+C. Job simplification
+D. Job enlargement
+Answer: A
+Why: Job enrichment expands the depth of responsibility and autonomy vertically.
+
+During the night shift, Nurse Garcia smells alcohol on a colleague's breath and notes slurred speech. What is the best action?
+A. Immediately inform the nursing supervisor of the observations
+B. Report the incident in the morning to the ward manager
+C. Cover for the colleague and monitor her for the shift
+D. Recommend that the colleague drink coffee for 30 minutes
+Answer: A
+Why: A nurse must immediately report possible impairment to protect patient safety.
+
+A nurse leader examines whether actual performance matches set standards, then retrains staff when gaps are found. Which management function is she performing?
+A. Planning
+B. Staffing
+C. Controlling
+D. Organizing
+Answer: C
+Why: Controlling sets standards, measures performance, compares it to standards, and takes corrective action.
+
+Which is the correct sequence of the controlling process?
+A. Set standards, measure performance, compare performance to standards, take corrective action
+B. Take corrective action, set standards, measure, compare
+C. Compare, set standards, measure, correct
+D. Measure performance, set standards, take action, compare results
+Answer: A
+Why: The four steps are standard setting, measuring, comparing, and corrective action.
+
+A nurse manager schedules preventive maintenance of the infusion pumps and develops a staffing plan before the next quarter begins. Which type of control is this?
+A. Feedforward control
+B. Corrective control
+C. Feedback control
+D. Concurrent control
+Answer: A
+Why: Feedforward (pre-action) control anticipates problems before they occur.
+
+Two nurses double-check a high-alert medication at the bedside before administering. Which type of control is this?
+A. Feedforward control
+B. Feedback control
+C. Strategic control
+D. Concurrent control
+Answer: D
+Why: Concurrent control involves real-time monitoring during care delivery.
+
+At the end of the month, the quality team reviews medication error reports and charts. Which type of control is this?
+A. Feedforward control
+B. Feedback control
+C. Preventive control
+D. Concurrent control
+Answer: B
+Why: Feedback control is a post-action review.
+
+The quality improvement team plans a change, tests it on a small scale, analyzes the results, and then decides to adopt, adapt, or abandon it. Which method is this?
+A. Zero-based budgeting
+B. Force-field analysis
+C. SWOT analysis
+D. PDCA/PDSA cycle
+Answer: D
+Why: PDCA: Plan, Do, Check/Study, Act.
+
+In the PDCA cycle, a nurse unit pilots a two-nurse skin assessment on one ward for 2 weeks. Which phase is this?
+A. Act
+B. Do
+C. Plan
+D. Check
+Answer: B
+Why: In the Do phase, the change is tested on a small scale.
+
+A hospital compares its fall rate and central line infection rate with those of top-performing hospitals. Which technique is this?
+A. Forecasting
+B. Zero-based budgeting
+C. Benchmarking
+D. Scenario planning
+Answer: C
+Why: Benchmarking compares performance indicators against industry standards or top performers.
+
+A patient refuses a blood transfusion after receiving an explanation of the consequences. The nurse respects this decision. Which ethical principle is being honored?
+A. Fidelity
+B. Autonomy
+C. Justice
+D. Beneficence
+Answer: B
+Why: Autonomy is respect for the patient's right to self-determination and informed refusal.
+
+A nurse tells a patient the truth about a medication error that has occurred. Which principle is she observing?
+A. Fidelity
+B. Veracity
+C. Justice
+D. Nonmaleficence
+Answer: B
+Why: Veracity is the obligation to tell the truth.
+
+A nurse allocates scarce ICU beds based on clinical need and not on social status. Which principle is applied?
+A. Fidelity
+B. Justice
+C. Autonomy
+D. Beneficence
+Answer: B
+Why: Justice is fair and equitable distribution of care and resources.
+
+A nurse withholds a medication that she realizes could cause harm and notifies the physician. Which principle is she observing?
+A. Beneficence
+B. Autonomy
+C. Veracity
+D. Nonmaleficence
+Answer: D
+Why: Nonmaleficence is the duty to prevent and avoid harm.
+
+A nurse keeps a promise made to a patient to stay with her until the family arrives. Which principle applies?
+A. Veracity
+B. Justice
+C. Autonomy
+D. Fidelity
+Answer: D
+Why: Fidelity is upholding professional commitments.
+
+Which is a ground for suspension or revocation of a nurse's license under RA 9173?
+A. Joining a union
+B. Taking a vacation leave
+C. Enrolling in graduate school
+D. Gross incompetence, unethical conduct, or malpractice
+Answer: D
+Why: Unprofessional and unethical conduct, gross incompetence, and malpractice are grounds for suspension or revocation.
+
+A nurse fails to follow protocol, and the patient suffers an injury. For malpractice to be established, which four elements must be present?
+A. Duty, breach of duty, causation, and injury
+B. Duty, intent, consent, and cost
+C. Breach, intent, harm, and negligence
+D. Intent, motive, consent, and harm
+Answer: A
+Why: The elements of negligence or malpractice are duty, breach, causation, and injury.
+
+A nurse threatens to restrain a patient who refuses a bath, but does not touch him. Which intentional tort is this?
+A. False imprisonment
+B. Assault
+C. Libel
+D. Battery
+Answer: B
+Why: Assault is a threat or attempt to touch another person unjustifiably.
+
+A nurse gives an injection to a competent patient who clearly refused it. Which tort has been committed?
+A. Assault
+B. Battery
+C. Negligence
+D. Defamation
+Answer: B
+Why: Battery is unlawful physical contact without consent.
+
+A nurse keeps a competent patient in the hospital against his wishes because his bill is unpaid. Which legal issue is involved?
+A. Slander
+B. False imprisonment
+C. Invasion of privacy
+D. Libel
+Answer: B
+Why: Unjustifiable detention is false imprisonment, and the Hospital Detention Law (Act No. 9439) prohibits detaining patients for unpaid bills.
+
+A nurse writes in an online post that a colleague is incompetent, though this is false, which damages the colleague's reputation. Which tort is committed?
+A. Battery
+B. Slander
+C. Libel
+D. Assault
+Answer: C
+Why: Libel is written defamation; slander is spoken.
+
+A nurse tells a group of visitors that a colleague has been stealing narcotics, but it is untrue. Which tort has been committed?
+A. Libel
+B. False imprisonment
+C. Slander
+D. Battery
+Answer: C
+Why: Slander is spoken defamation.
+
+After an abdominal surgery, a surgical clamp is discovered in the patient's abdomen. Which doctrine allows the court to presume negligence?
+A. Good Samaritan doctrine
+B. Res ipsa loquitur
+C. Respondeat superior
+D. Force majeure
+Answer: B
+Why: "The thing speaks for itself" applies when the harm is obvious, such as a retained instrument, so negligence is presumed.
+
+A hospital is held liable for the negligent act of a nurse employed by the hospital while performing duties within her scope. Which doctrine applies?
+A. Res ipsa loquitur
+B. Force majeure
+C. Stare decisis
+D. Respondeat superior
+Answer: D
+Why: "Let the master answer" holds the employer liable for acts of employees within the scope of employment.
+
+A hospital is flooded by a super typhoon, destroying the medication stocks and causing missed doses. The hospital argues it could not prevent the event. Which doctrine is being invoked?
+A. Res ipsa loquitur
+B. Respondeat superior
+C. Force majeure
+D. Assumption of risk
+Answer: C
+Why: Force majeure refers to irresistible force, such as acts of nature.
+
+The nurse is asked to obtain a signature for an operation. The physician has not yet explained the procedure. What is the nurse's best action?
+A. Proceed because the patient is already scheduled
+B. Have the family sign without explanation
+C. Explain the surgical risks herself and get the signature
+D. Notify the physician to explain the procedure first because informed consent requires full disclosure
+Answer: D
+Why: The physician is responsible for disclosure of risks and benefits; the nurse witnesses the voluntary signature and understanding.
+
+Which is the nurse's role in informed consent?
+A. Sign on behalf of a competent patient
+B. Decide whether the patient is competent without assessment
+C. Provide all the risk-benefit information
+D. Witness that the patient's signature is voluntary and that the patient understands
+Answer: D
+Why: The physician discloses; the nurse acts as witness and ensures voluntariness and understanding.
+
+A patient insists on leaving the hospital against medical advice. What is the nurse's most appropriate action?
+A. Refuse to give him his belongings
+B. Physically restrain the patient
+C. Respect the patient's right, counsel him about risks, and document the counseling
+D. Call security to block the exit
+Answer: C
+Why: The patient has the right to leave AMA, and the nurse documents counseling on the risks.
+
+A nurse discusses a patient's diagnosis with a friend in the cafeteria. Which patient right has been violated?
+A. Right to religious belief
+B. Right to health education
+C. Privacy and confidentiality
+D. Right to refuse treatment
+Answer: C
+Why: Protection of personal health information is a core patient right.
+
+A patient asks to see his own medical record. According to the Philippine patient's bill of rights, which is correct?
+A. He has the right to access his health records, with assistance in understanding them
+B. He may view only the nurses' notes
+C. Records are the exclusive property of the physician
+D. The nurse should refuse
+Answer: A
+Why: Patients have the right to medical records and assistance in understanding them.
+
+A bedridden patient wants to make a will. Which nursing action is most appropriate?
+A. Refuse to be present
+B. Advise the patient on the contents of the will
+C. Note the patient's apparent mental and physical condition and ensure there is no fraud or undue influence
+D. Sign as the sole witness
+Answer: C
+Why: The nurse notes soundness of mind and freedom from fraud, and documents the patient's condition.
+
+A will written, dated, and signed in the handwriting of the testator is called:
+A. Intestate will
+B. Holographic will
+C. Nuncupative will
+D. Probate will
+Answer: B
+Why: A holographic will is written, dated, and signed by the testator; a nuncupative will is oral.
+
+In a legal case, the plaintiff seeks monetary damages for a nurse's negligence, and only a preponderance of evidence is needed. Which type of case is this?
+A. Constitutional case
+B. Administrative case
+C. Criminal case
+D. Civil case
+Answer: D
+Why: Civil cases are instituted by the patient or relative for damages and require a preponderance of evidence; criminal cases require proof beyond reasonable doubt.
+
+A nurse is found guilty beyond reasonable doubt of reckless imprudence resulting in a patient's death. Which case type and penalty apply?
+A. Criminal case; fine, imprisonment, or both
+B. Civil case; license suspension
+C. Administrative case; reprimand only
+D. Civil case; monetary damages only
+Answer: A
+Why: Criminal cases are prosecuted by the state, requiring proof beyond reasonable doubt, with fines and/or imprisonment.
+
+The Chief Nurse delegates the task of ambulating a stable patient to an aide. Which of the 5 rights of delegation includes ensuring the aide has the competence to do the task?
+A. Right person
+B. Right circumstance
+C. Right feedback
+D. Right task
+Answer: A
+Why: The right person is one with the appropriate skills; the nurse remains accountable.
+
+Which task is inappropriate to delegate?
+A. A task requiring confidentiality or sensitive issues
+B. Taking routine vital signs in a stable patient
+C. Delivering a laboratory specimen
+D. Serving meals
+Answer: A
+Why: Do not delegate tasks that require confidentiality or sensitive issues or tasks you don't understand.
+
+Which are the five R's of delegation?
+A. Right task, right tools, right time, right team, right target
+B. Right drug, right dose, right route, right time, right client
+C. Right plan, right place, right pay, right person, right policy
+D. Right task, right circumstance, right person, right accommodation (direction), and right feedback
+Answer: D
+Why: The 5 R's of delegation are task, circumstance, person, accommodation, and feedback.
+
+A manager forecasts patient volumes and plans for different possible future scenarios to prepare for uncertainty. This technique is called:
+A. Scenario planning
+B. Benchmarking
+C. Delegation
+D. Zero-based budgeting
+Answer: A
+Why: Scenario planning is a forecasting tool in planning.
+
+Emergency nurse Torres arrives at a mass casualty scene where first responders must quickly classify victims by severity. Which triage method is designed for this?
+A. Labeling triage
+B. START (Simple Triage and Rapid Treatment)
+C. Delayed triage
+D. Reverse triage
+Answer: B
+Why: START is used by first responders to classify victims quickly in a mass casualty incident.
+
+In triage, which color tag is used for patients whose condition is life-threatening and must be attended immediately?
+A. Red
+B. Black
+C. Yellow
+D. Green
+Answer: A
+Why: Red = emergent; yellow = delayed; green = non-urgent; black = expectant or death imminent.
+
+A victim of a collapsed building has extensive injuries and is unlikely to survive even with definitive care. Which triage category applies?
+A. Delayed (yellow)
+B. Minimal (green)
+C. Immediate (red)
+D. Expectant (black)
+Answer: D
+Why: Expectant victims have extensive injuries and low chance of survival.
+
+A patient with a simple wrist sprain walks into the ED during a flood disaster. Which category applies?
+A. Minimal (green) or non-urgent
+B. Immediate
+C. Expectant
+D. Delayed
+Answer: A
+Why: Minor injuries can be delayed for hours to days and moved away from the main triage area.
+
+A patient with a stable open fracture who can wait hours without threat to life or limb is classified as:
+A. Minimal (green)
+B. Immediate (red)
+C. Delayed (yellow)
+D. Expectant (black)
+Answer: C
+Why: Delayed victims have significant injuries but can wait hours without threat to life or limb.
+
+In emergency department triage, which patient must be seen within 24 hours without increased morbidity?
+A. Non-urgent patient with an episodic illness
+B. Emergent patient
+C. Patient in cardiac arrest
+D. Urgent patient with a serious health problem
+Answer: A
+Why: Non-urgent patients can be seen within 24 hours; urgent within one hour; emergent immediately.
+
+A triage nurse classifies a patient with a ruptured spleen as a low priority, underestimating the severity. This error is called:
+A. Undertriage
+B. Reverse triage
+C. Overtriage
+D. Advance triage
+Answer: A
+Why: Undertriage is underestimating the severity of illness or injury.
+
+A triage nurse classifies a patient with a minor laceration as immediate priority. This error is called:
+A. Overtriage
+B. Undertriage
+C. Advance triage
+D. Reverse triage
+Answer: A
+Why: Overtriage is overestimating the severity.
+
+During a surge, the hospital discharges stable patients early to free beds for incoming casualties. This process is:
+A. Reverse triage
+B. Advance triage
+C. Over triage
+D. Under triage
+Answer: A
+Why: Reverse triage prioritizes early discharge when the medical system is stressed.
+
+Doctors decide that scarce resources should not be used on patients with little chance of survival, in order to improve the survival of others. This describes:
+A. Overtriage
+B. Practical applied triage
+C. Reverse triage
+D. Advance triage
+Answer: D
+Why: Advance triage diverts scarce resources away from those unlikely to survive.
+
+In the primary survey of a trauma patient, which order is correct?
+A. Airway, breathing, circulation, disability, exposure
+B. Circulation, airway, breathing, exposure, disability
+C. Disability, exposure, airway, breathing, circulation
+D. Breathing, airway, disability, circulation, exposure
+Answer: A
+Why: The primary survey is ABCDE.
+
+During the secondary assessment, the rescuer asks the conscious victim about allergies, medications, and last oral intake. Which mnemonic is being used?
+A. SAMPLE
+B. AIDS
+C. START
+D. DaRRaN
+Answer: A
+Why: SAMPLE: signs and symptoms, allergies, medications, previous history, last oral intake, events.
+
+Which tool is used to assess the level of consciousness during the neurologic assessment of an emergency patient?
+A. Glasgow Coma Scale
+B. Braden scale
+C. Apgar score
+D. Rule of nines
+Answer: A
+Why: The Glasgow Coma Scale is used to assess LOC.
+
+A restaurant patron suddenly clutches his throat, cannot speak, breathe, or cough, and has cyanosis. What is the best immediate action?
+A. Wait for the patient to cough up the object
+B. Slap his back while he lies down
+C. Perform abdominal thrusts (Heimlich maneuver)
+D. Give him water
+Answer: C
+Why: In severe (complete) obstruction, the victim cannot talk, breathe, or cough, so abdominal thrusts are done.
+
+A person with partial airway obstruction can speak and cough with a high-pitched sound. What should the rescuer do?
+A. Perform abdominal thrusts immediately
+B. Begin chest compressions
+C. Encourage the victim to keep coughing and observe closely
+D. Turn the victim prone
+Answer: C
+Why: With partial obstruction, encourage coughing.
+
+Where should the rescuer place the fist when performing the Heimlich maneuver on a conscious adult?
+A. On the xiphoid process
+B. Over the sternum
+C. Below the umbilicus
+D. Thumb side just above the umbilicus and well below the xiphoid process
+Answer: D
+Why: The fist is placed just above the umbilicus and well below the xiphoid, with quick inward and upward thrusts.
+
+A choking victim is in advanced pregnancy. Which technique should the rescuer use?
+A. Abdominal thrusts
+B. Back blows only
+C. Chest thrusts
+D. Finger sweep
+Answer: C
+Why: Chest thrusts are used for obese or advanced-pregnancy victims.
+
+How long can a completely obstructed airway be tolerated before permanent brain damage or death occurs?
+A. 30 minutes
+B. 10 to 15 minutes
+C. 3 to 5 minutes
+D. 1 hour
+Answer: C
+Why: Complete airway obstruction leads to permanent brain damage or death in 3-5 minutes.
+
+The head-tilt, chin-lift maneuver is contraindicated in which patient?
+A. A patient with snoring respirations after seizure
+B. An unconscious patient with a medical illness
+C. One with a suspected cervical spine injury
+D. A choking adult
+Answer: C
+Why: The head tilt-chin lift is used only if the cervical spine is determined not to be injured; a jaw thrust is used instead.
+
+A trauma victim is bleeding profusely from the forearm. Which is the first action?
+A. Elevate and apply ice only
+B. Remove all dressings to inspect the wound
+C. Apply direct firm pressure to the wound
+D. Apply a tourniquet immediately
+Answer: C
+Why: Direct firm pressure is first; a tourniquet is only a last resort.
+
+Which conditions take precedence over the immediate control of hemorrhage?
+A. Obstructed airway and a sucking chest wound
+B. A fractured arm
+C. A sprained ankle
+D. A minor laceration
+Answer: A
+Why: Only obstructed airway or sucking chest wound take priority over stopping bleeding.
+
+A patient with suspected internal hemorrhage is brought to the ED. Which nursing intervention is appropriate?
+A. Apply a tourniquet
+B. Restrict IV fluids and blood
+C. Place in high Fowler's position
+D. Maintain in supine position, establish baseline hemodynamic parameters, and prepare for surgery
+Answer: D
+Why: Internal hemorrhage requires PRBCs, supine position, baseline parameters, and definitive treatment.
+
+A patient has a wound with significant tissue loss and a high potential for infection. Which closure is indicated?
+A. Leaving the wound open without treatment
+B. Primary closure with staples only
+C. Delayed primary closure with tetanus prophylaxis and antibiotics
+D. Immediate suturing only
+Answer: C
+Why: Delayed primary closure is indicated if tissue has been lost or infection risk is high.
+
+A worker is brought in after being caught between a collapsed beam and a wall for several hours. Which intervention is a priority?
+A. Remove the weight and send the patient home
+B. Apply heat to the limb
+C. Maintain ABCs, monitor serum lactic acid, and prepare for possible fasciotomy
+D. Withhold analgesia
+Answer: C
+Why: Crush injury management includes ABCs, monitoring lactic acid, fasciotomy to restore neurovascular function, and medications for pain.
+
+A patient with multiple fractures and abdominal pain arrives. Which should the nurse do first?
+A. Give oral analgesics
+B. Splint the extremities before anything else
+C. Assess airway, breathing, circulation, and evaluate for neurologic or abdominal injuries before treating the extremity, unless the extremity is pulseless
+D. Obtain the history only
+Answer: C
+Why: Immediate attention is given to general condition and ABCs; the extremity is treated first only if pulseless.
+
+A 70-year-old is found confused in an un-air-conditioned room during a heat wave. Temperature is 41°C, and the skin is hot and dry with no sweating. What is the likely condition and priority?
+A. Hypothermia; rewarm slowly
+B. Dehydration; give fluids only
+C. Heat exhaustion; give hot tea
+D. Heat stroke; rapidly reduce the core temperature to about 39°C
+Answer: D
+Why: Heat stroke presents with CNS dysfunction, temperature of 40.6°C (105°F) or higher, hot dry skin, and anhidrosis; cooling is the priority.
+
+Which method is appropriate for cooling a patient with heat stroke?
+A. Remove clothing and apply ice to neck, groin, chest, and axillae while spraying with tepid water
+B. Give hot fluids
+C. Wrap the patient in blankets
+D. Apply heat packs
+Answer: A
+Why: Cooling includes ice packs, tepid spray, cooling blankets, and immersion in a cold water bath.
+
+A hiker with heat exhaustion is moved to a cool place. Which additional first aid action is appropriate?
+A. Give him hot drinks
+B. Have him continue walking
+C. Apply heat to the extremities
+D. Lay him down, elevate his feet, loosen his clothing, and give fluids
+Answer: D
+Why: For heat exhaustion, move to a cool place, lay down, elevate the feet, loosen clothing, give fluids, and apply cool compresses.
+
+Which core body temperature defines hypothermia?
+A. 36.5°C
+B. 35°C (95°F) or less
+C. 37.5°C
+D. 33°C or less only
+Answer: B
+Why: Hypothermia is core temperature of 35°C (95°F) or less.
+
+A homeless man is found with a core temperature of 30°C after exposure to the cold and alcohol intoxication. Which action is a priority?
+A. Give alcohol to warm him
+B. Place him in a hot bath immediately
+C. Rub the extremities vigorously
+D. Maintain ABCs and use core rewarming methods while monitoring for ventricular fibrillation
+Answer: D
+Why: ABCs are the priority; core rewarming is recommended for severe hypothermia, with monitoring for VF at 31-32°C.
+
+A child is pulled from a pond after being submerged, and is not breathing. Which intervention most influences survival?
+A. Waiting for EMS before intervention
+B. Pushing abdominal thrusts to remove all water
+C. Warm blankets alone
+D. Immediate cardiopulmonary resuscitation
+Answer: D
+Why: Immediate CPR has the greatest influence on survival, and efforts should not be abandoned prematurely.
+
+After a wasp sting, a patient develops hives, wheezing, lip swelling, and hypotension within minutes. What is the priority nursing action?
+A. Give an oral antihistamine only
+B. Establish and maintain a patent airway and administer epinephrine as ordered
+C. Scratch the area to remove the venom
+D. Apply ice to the sting and observe
+Answer: B
+Why: In anaphylaxis, airway and ventilation are essential while epinephrine is administered; IgE-mediated reactions are life threatening.
+
+Which first aid action is appropriate for a bee sting without anaphylaxis?
+A. Squeeze the stinger with tweezers
+B. Rub the area vigorously
+C. Remove the stinger by scraping and cleanse the site
+D. Apply a tourniquet
+Answer: C
+Why: Remove the stinger by scraping, cleanse with soap and water, and apply ice; avoid scratching.
+
+A man is bitten on the leg by a poisonous snake. Which first aid measure is correct?
+A. Keep him lying down, remove constrictive items, cleanse and cover the wound, and immobilize the part below the heart level
+B. Have him walk to the hospital
+C. Cut the wound and suck out the venom
+D. Apply ice and a tight tourniquet
+Answer: A
+Why: Ice or tourniquet is not applied; immobilize the part, remove rings, and get to the ED.
+
+A child is bitten by a stray dog. Which management is appropriate?
+A. Close the wound tightly immediately
+B. Wash the wound with soap and water; give tetanus toxoid and rabies vaccine with immunoglobulin
+C. Observe only
+D. Apply alcohol and ignore it
+Answer: B
+Why: Animal bite management includes cleansing, tetanus prophylaxis, and rabies vaccine and immunoglobulin.
+
+A mother finds her toddler who has swallowed kerosene. Which first aid action is correct?
+A. Induce vomiting immediately
+B. Do not induce vomiting, because it may result in chemical pneumonia
+C. Give a glass of milk and wait
+D. Give salt water
+Answer: B
+Why: Petroleum products and corrosive chemicals must never be vomited.
+
+A child accidentally swallowed a large dose of paracetamol (acetaminophen). Which antidote will be ordered?
+A. Atropine
+B. Vitamin K
+C. Naloxone
+D. Acetylcysteine
+Answer: D
+Why: Acetylcysteine is the antidote for acetaminophen poisoning.
+
+A family is found in a closed room with a charcoal stove. They are dizzy, confused, and one has cherry-red skin. Which is the priority action?
+A. Remove them from exposure and administer 100% oxygen
+B. Wait for symptoms to resolve
+C. Give them water
+D. Apply a cold compress
+Answer: A
+Why: Carbon monoxide poisoning is managed by removing the victim, giving 100% O2, and starting CPR if needed; cherry-red skin is not reliable.
+
+A person sustains a 3rd-degree burn. Which description is expected?
+A. Superficial reddening that heals in 3-7 days
+B. Red, painful skin without blisters
+C. Moist with blisters and severe pain
+D. Dry, leathery, painless wound that may be red, black, or white
+Answer: D
+Why: Third-degree burns involve full thickness, are painless, and need excision and grafting.
+
+Using the rule of nines, what percentage of body surface does an adult's entire anterior trunk represent?
+A. 18%
+B. 4.5%
+C. 36%
+D. 9%
+Answer: A
+Why: In adults, the anterior trunk is 18%, the posterior trunk 18%, each leg 18%, each arm 9%, head and neck 9%, perineum 1%.
+
+A 2-year-old has burns on the whole head and neck. What percent of the body surface is affected according to the rule of nines for a child under 3?
+A. 27%
+B. 18%
+C. 9%
+D. 14%
+Answer: B
+Why: In a child under 3, head and neck are 18%, compared with 9% in adults.
+
+A person's clothing is on fire. What is the correct action?
+A. Let him run for water
+B. Apply cooking oil
+C. Pull burned clothing across his face
+D. Smother the flames with a blanket and have the person stop, drop, and roll
+Answer: D
+Why: Prevent the victim from running, smother the flames, and cool with water.
+
+A man receives a hot-water scald on the forearm. What is the immediate first aid?
+A. Break blisters
+B. Flush the area with cool running water for up to 20 minutes
+C. Apply butter
+D. Apply ice directly for an hour
+Answer: B
+Why: Immediately flush with water; do not apply lotions, creams, or break blisters.
+
+A worker is splashed with a corrosive chemical on the arm. What is the first aid?
+A. Wipe with a dry cloth
+B. Flood with water for 20 to 30 minutes and remove contaminated clothing
+C. Cover with ointment
+D. Apply a neutralizing chemical right away
+Answer: B
+Why: Chemical burns require flooding with water for 20-30 minutes and removal of contaminated clothing.
+
+A person has been electrocuted and is still in contact with a live wire. What should the rescuer do first?
+A. Pour water on the victim
+B. Begin CPR immediately without checking the scene
+C. Pull the victim directly by the hand
+D. Turn off the power source and avoid contact until the victim is disconnected
+Answer: D
+Why: Safety first: don't touch, turn the power off, then check ABCs.
+
+A first aider finds an unresponsive adult. What is the correct sequence for the first steps?
+A. Move the victim to a vehicle
+B. Give water
+C. Begin rescue breaths immediately
+D. Check scene safety, check responsiveness, call for help, and check ABCs
+Answer: D
+Why: The basic rules: call for help, check ABCs, and do no further harm.
+
+Which guideline describes the "AID" principle in emergency care?
+A. Airway, IV, drugs
+B. Assess, inform, document
+C. Ask for help, intervene, do no further harm
+D. Alert, isolate, decontaminate
+Answer: C
+Why: AID: Ask for help, Intervene, Do no further harm.
+
+A nurse stops at a road accident and helps a victim in good faith, but the victim complains of a worsened injury. Which law protects the nurse if she is not grossly negligent?
+A. Mandatory reporting law
+B. Good Samaritan Law
+C. Respondeat superior
+D. Res ipsa loquitur
+Answer: B
+Why: The Good Samaritan Law protects rescuers acting in good faith who are not guilty of gross negligence or willful misconduct.
+
+A client with a suspected sprained ankle comes to the first aid station. Which management is correct?
+A. Apply heat for 24 hours
+B. Encourage immediate weight-bearing
+C. Apply a cold compress at once, immobilize, rest, and elevate the joint
+D. Massage the area vigorously
+Answer: C
+Why: Sprain: remove clothing or jewelry, apply cold, immobilize, rest, elevate.
+
+A person suffers a rib fracture after a crush injury and has shallow respirations. Which intervention helps?
+A. Encourage the client to avoid breathing deeply and coughing completely
+B. Splint the chest during coughing and deep breathing
+C. Bind the chest tightly with a cloth all day
+D. Apply heat first, then ice
+Answer: B
+Why: Management includes rest, ice then local heat, and splinting during coughing or deep breathing.
+
+A stab victim has difficulty breathing, absent breath sounds on one side, increased pulse, and bluish skin. Which condition is suspected, and what is an appropriate intervention?
+A. Heat stroke; remove clothing
+B. Asthma; give oral fluids
+C. Pneumothorax; apply dressing over open chest wound and place in high Fowler's position
+D. Rib fracture; place in prone position
+Answer: C
+Why: Pneumothorax is air in the pleural space; management includes dressing, high Fowler's, and chest tube.
+
+A person is having a generalized tonic-clonic seizure. What is the appropriate first aid?
+A. Place a spoon in the mouth
+B. Remove hazards, check breathing, keep the person comfortable, and put nothing in the mouth
+C. Restrain the person firmly
+D. Give water
+Answer: B
+Why: Nothing is placed in the mouth; remove the victim from hazards and call for help if needed.
+
+A child puts a seed in his ear. Which first aid is correct?
+A. Probe with a cotton bud
+B. Do not probe or use water; gently tilt the head and use gravity
+C. Pour oil
+D. Pour water in the ear
+Answer: B
+Why: Don't probe; don't use water for seeds; oil is only for insects.
+
+A child has a small bead in his nose. Which is correct advice?
+A. Breathe through the mouth and gently blow the nose; don't probe
+B. Use a cotton ball to push it out
+C. Sniff strongly
+D. Probe with tweezers
+Answer: A
+Why: Do not probe the nose; breathe through the mouth and blow the nose gently.
+
+How many chest compressions and breaths per cycle are given to an adult during CPR?
+A. 5 compressions and 1 breath
+B. 30 compressions and 2 breaths
+C. 15 compressions and 2 breaths
+D. 30 compressions and 5 breaths
+Answer: B
+Why: Adult CPR uses 30:2.
+
+What is the correct rate of chest compressions during adult CPR?
+A. 40 to 60 per minute
+B. 140 to 160 per minute
+C. 100 to 120 per minute
+D. 60 to 80 per minute
+Answer: C
+Why: Compression rate is 100-120/min with a depth of about 1.5-2 inches (not deeper than 2.4 in).
+
+When may a rescuer stop CPR?
+A. When spontaneous breathing is restored, EMS takes over, the rescuer is exhausted, or a physician assumes responsibility
+B. After 1 minute
+C. When the rescuer gets bored
+D. When a bystander asks
+Answer: A
+Why: STOP: Spontaneous breath, Turned over to medical services, Operator exhausted, Physician assumes responsibility.
+
+Which is the first link in the chain of survival?
+A. Early ACLS
+B. Early defibrillation
+C. Early access (recognition and activation of emergency services)
+D. Post-arrest care
+Answer: C
+Why: The chain: early access, early BLS, early defibrillation, early ACLS.
+
+Without defibrillation, the chance of survival from ventricular fibrillation decreases by what percent each minute?
+A. 20 to 25%
+B. 7 to 10%
+C. 1 to 2%
+D. 50%
+Answer: B
+Why: Survival decreases 7-10% per minute without defibrillation.
+
+A flood hits a coastal city. Which prevention role of nurses is most appropriate after the flood?
+A. Stop public education
+B. Discharge all patients
+C. Help maintain sanitation, control vector populations, and educate on infectious disease control
+D. Reduce all staffing
+Answer: C
+Why: Nurses act as preventionists, maintaining sanitation, vector control, and public education after floods.
+
+Which statement about disaster mortality and injury patterns is correct?
+A. Water-related disasters cause mostly injuries
+B. Disasters cause no deaths
+C. Floods, storm surges, and tsunamis have a higher proportion of deaths relative to injuries, while earthquakes have more injuries than deaths
+D. Earthquakes cause more deaths than injuries
+Answer: C
+Why: Water-related events are the most significant in mortality; earthquakes and high winds produce more injuries.
