@@ -1,6 +1,4 @@
-QUESTION BANK (300 ITEMS): Care of Clients with Maladaptive Patterns of Behavior (BSN 4-2)
-
-1. Which statement best describes anxiety?
+Which statement best describes anxiety?
 A. A specific, identifiable fear of a known object
 B. A vague feeling of apprehension or fear whose source is not always known or recognized
 C. A fixed false belief that persists despite evidence
@@ -8,7 +6,7 @@ D. A depressed mood lasting at least two years
 Answer: B
 Why: Anxiety is a vague apprehension or fear; the source is not always known, which adds to the distress.
 
-2. Which statement best describes anxiety disorders?
+Which statement best describes anxiety disorders?
 A. Brief responses that never affect functioning
 B. Conditions caused only by substance use
 C. Disorders defined by loss of contact with reality
@@ -16,7 +14,7 @@ D. A group of conditions sharing excessive anxiety with behavioral, emotional, c
 Answer: D
 Why: Excessive anxiety with ensuing behavioral, emotional, cognitive, and physiologic responses is the key shared feature.
 
-3. A nursing student feels slightly restless and finds she focuses better while studying for an examination. Which level of anxiety is this?
+A nursing student feels slightly restless and finds she focuses better while studying for an examination. Which level of anxiety is this?
 A. Mild (+1)
 B. Moderate (+2)
 C. Severe (+3)
@@ -24,7 +22,7 @@ D. Panic (+4)
 Answer: A
 Why: Mild anxiety widens the perceptual field, enhances learning, and motivates goal-directed activity.
 
-4. A client feels that something is definitely wrong, is nervous and agitated, can still learn with assistance, but has difficulty concentrating independently. Which level of anxiety is this?
+A client feels that something is definitely wrong, is nervous and agitated, can still learn with assistance, but has difficulty concentrating independently. Which level of anxiety is this?
 A. Mild
 B. Severe
 C. Moderate
@@ -32,7 +30,7 @@ D. Panic
 Answer: C
 Why: Moderate (+2) anxiety is a disturbing feeling that something is wrong; the client can process information with help.
 
-5. The nurse is giving preoperative teaching to a moderately anxious client whose attention keeps wandering. What is the best action?
+The nurse is giving preoperative teaching to a moderately anxious client whose attention keeps wandering. What is the best action?
 A. Stop teaching until the client is calm
 B. Direct the client's attention back to the task at hand and continue teaching
 C. Give a series of firm directive orders
@@ -40,7 +38,7 @@ D. Leave the teaching to the family
 Answer: B
 Why: At moderate anxiety the client can be redirected, so the nurse regains attention and returns to the task.
 
-6. A client has trouble thinking and reasoning, tightened muscles, increased vital signs, and paces the room. Which level of anxiety is this?
+A client has trouble thinking and reasoning, tightened muscles, increased vital signs, and paces the room. Which level of anxiety is this?
 A. Mild
 B. Moderate
 C. Panic
@@ -48,7 +46,7 @@ D. Severe
 Answer: D
 Why: Severe anxiety impairs thinking and reasoning; tension is released through pacing or similar psychomotor means.
 
-7. Which number represents the level of severe anxiety in the lecture?
+Which number represents the level of severe anxiety in the lecture?
 A. +1
 B. +2
 C. +3
@@ -56,7 +54,7 @@ D. +4
 Answer: C
 Why: Mild is +1, moderate +2, severe +3, and panic +4.
 
-8. A severely anxious client says, "I don't know what to do or what to say." Which approach is best?
+A severely anxious client says, "I don't know what to do or what to say." Which approach is best?
 A. Give short directive orders such as "Please sit down"
 B. Provide long, detailed explanations
 C. Ask open-ended questions about feelings
@@ -64,7 +62,7 @@ D. Teach new coping skills in depth
 Answer: A
 Why: Clients at the severe level cannot think through options, so simple directive orders are used.
 
-9. At which level of anxiety do fight, flight, or freeze responses predominate?
+At which level of anxiety do fight, flight, or freeze responses predominate?
 A. Severe
 B. Panic
 C. Moderate
@@ -72,7 +70,7 @@ D. Mild
 Answer: B
 Why: In panic (+4) the emotional-psychomotor realm predominates with fight, flight, or freeze responses.
 
-10. What is the priority nursing action for a client in panic?
+What is the priority nursing action for a client in panic?
 A. Teach problem-solving skills
 B. Encourage insight into the cause
 C. Assign the client to a group activity
@@ -80,7 +78,7 @@ D. Promote safety
 Answer: D
 Why: A client in panic may harm self, so safety comes first.
 
-11. According to the lecture, which action should the nurse never do with a client in panic?
+According to the lecture, which action should the nurse never do with a client in panic?
 A. Touch the client
 B. Stay with the client
 C. Speak in a calm voice
@@ -88,7 +86,7 @@ D. Reduce environmental stimuli
 Answer: A
 Why: The lecture states "never touch patient" because a panicking client may perceive touch as a threat.
 
-12. For a hyperventilating client in panic, the lecture suggests which intervention?
+For a hyperventilating client in panic, the lecture suggests which intervention?
 A. Rapid pacing
 B. Drinking cold water
 C. Breathing into a paper bag
@@ -96,7 +94,7 @@ D. Giving a stimulant
 Answer: C
 Why: Per the lecture, hyperventilation is managed by having the client breathe into a paper bag.
 
-13. Which set of findings is consistent with physical signs of anxiety?
+Which set of findings is consistent with physical signs of anxiety?
 A. Pressured speech and grandiosity
 B. Twitching or trembling, muscle tension, headaches, sweating, dry mouth
 C. Magical thinking and ideas of reference
@@ -104,7 +102,7 @@ D. Echolalia and hand flapping
 Answer: B
 Why: These are listed physical signs of anxiety; the others belong to mania, schizotypal PD, and autism.
 
-14. In a child, which may be the only symptom of stress?
+In a child, which may be the only symptom of stress?
 A. Hand flapping
 B. Echolalia
 C. Insomnia
@@ -112,7 +110,7 @@ D. Abdominal pain
 Answer: D
 Why: The lecture notes abdominal pain may be the only symptom of stress, especially in a child.
 
-15. Which combination represents cardiopulmonary signs of anxiety?
+Which combination represents cardiopulmonary signs of anxiety?
 A. Rapid or irregular heart rate and rapid breathing
 B. Bradycardia and slowed respirations
 C. Hypotension and bradypnea
@@ -120,7 +118,7 @@ D. Pallor and hypothermia
 Answer: A
 Why: Anxiety increases vital signs; rapid or irregular heartbeat and rapid breathing are listed.
 
-16. Which cluster of signs is associated with anxiety?
+Which cluster of signs is associated with anxiety?
 A. Increased energy and decreased need for sleep with elation
 B. Hallucinations and flat affect
 C. Irritability, sleeping difficulties, nightmares, decreased concentration, fatigue
@@ -128,7 +126,7 @@ D. Loss of interest and hopelessness for two years
 Answer: C
 Why: These are listed signs of anxiety; the others describe mania, psychosis, or dysthymia.
 
-17. Which finding is NOT listed as a sign of anxiety?
+Which finding is NOT listed as a sign of anxiety?
 A. Dizziness
 B. A slow, regular heart rate
 C. Sexual problems
@@ -136,7 +134,7 @@ D. Fatigue
 Answer: B
 Why: Anxiety produces a rapid or irregular heart rate, not a slow regular one.
 
-18. Which behavior is typical of a client with an anxiety disorder?
+Which behavior is typical of a client with an anxiety disorder?
 A. Planned, proportionate fear of a real danger
 B. Elevated mood for one week
 C. Command hallucinations
@@ -144,7 +142,7 @@ D. Unwarranted panic, uncontrollable repetitive actions, or reexperiencing of tr
 Answer: D
 Why: Clients show unusual behaviors such as panic without reason, fear of objects, repetitive actions, or overwhelming worry.
 
-19. Which of the following is NOT one of the types of anxiety disorders listed in the lecture?
+Which of the following is NOT one of the types of anxiety disorders listed in the lecture?
 A. Bipolar I disorder
 B. Panic disorder
 C. Phobias
@@ -152,7 +150,7 @@ D. Generalized anxiety disorder
 Answer: A
 Why: The types are panic disorder, OCD, PTSD, phobias, and GAD. Bipolar I is a mood disorder.
 
-20. Panic attacks are described as rapid, intense, escalating anxiety lasting about:
+Panic attacks are described as rapid, intense, escalating anxiety lasting about:
 A. 1 to 2 minutes
 B. 3 to 5 hours
 C. 15 to 30 minutes
@@ -160,7 +158,7 @@ D. 1 to 2 days
 Answer: C
 Why: The lecture describes discrete panic attacks lasting 15 to 30 minutes.
 
-21. Which symptom set would the nurse expect during a panic attack?
+Which symptom set would the nurse expect during a panic attack?
 A. Pressured speech, grandiosity, flight of ideas
 B. Palpitations, sweating, tremors, shortness of breath, paresthesias, hot flashes
 C. Echolalia, stereotyped movements, resistance to change
@@ -168,7 +166,7 @@ D. Hoarding, checking, repeating
 Answer: B
 Why: The person displays four or more symptoms such as palpitations, sweating, tremors, dyspnea, chest pain, nausea, dizziness, chills, or hot flashes.
 
-22. Panic disorder is diagnosed when the person has:
+Panic disorder is diagnosed when the person has:
 A. A single attack lasting one hour
 B. Attacks only when exposed to a phobic object
 C. Excessive worry for at least 6 months
@@ -176,7 +174,7 @@ D. Recurrent unexpected attacks followed by at least 1 month of persistent conce
 Answer: D
 Why: Recurrent unexpected attacks plus at least a month of worry about future attacks or behavioral change define panic disorder.
 
-23. Onset of panic disorder peaks in:
+Onset of panic disorder peaks in:
 A. Early childhood
 B. The 50s
 C. Late adolescence and the mid-30s
@@ -184,7 +182,7 @@ D. After age 65
 Answer: C
 Why: The lecture states onset peaks in late adolescence and the mid-30s.
 
-24. Agoraphobia is best described as:
+Agoraphobia is best described as:
 A. Fear of the marketplace or of being outside
 B. Fear of enclosed spaces
 C. Fear of heights
@@ -192,7 +190,7 @@ D. Fear of social humiliation
 Answer: A
 Why: Agoraphobia means fear of the marketplace or being outside and develops when panic attacks lead to avoidance.
 
-25. After several panic attacks in public, a client refuses to leave home. Which condition has the client most likely developed?
+After several panic attacks in public, a client refuses to leave home. Which condition has the client most likely developed?
 A. Social phobia
 B. Agoraphobia
 C. Claustrophobia
@@ -200,7 +198,7 @@ D. Obsessive-compulsive disorder
 Answer: B
 Why: Panic attacks can lead to avoidance behavior, and the client develops agoraphobia.
 
-26. A panic attack that "comes out of the blue" without warning and for no discernible reason is classified as:
+A panic attack that "comes out of the blue" without warning and for no discernible reason is classified as:
 A. Situational
 B. Situationally predisposed
 C. Cued
@@ -208,7 +206,7 @@ D. Unexpected
 Answer: D
 Why: Unexpected attacks occur without a discernible trigger.
 
-27. A client always has a panic attack upon entering a tunnel. This is a(n):
+A client always has a panic attack upon entering a tunnel. This is a(n):
 A. Situational panic attack
 B. Unexpected panic attack
 C. Situationally predisposed panic attack
@@ -216,7 +214,7 @@ D. Generalized panic attack
 Answer: A
 Why: Situational attacks always occur in a specific situation.
 
-28. A client sometimes, but not always, has panic attacks while driving. This is a(n):
+A client sometimes, but not always, has panic attacks while driving. This is a(n):
 A. Unexpected attack
 B. Situational attack
 C. Situationally predisposed attack
@@ -224,7 +222,7 @@ D. Compulsive episode
 Answer: C
 Why: Situationally predisposed attacks are likely, but not certain, in a given situation.
 
-29. Which statement defines obsessions in OCD?
+Which statement defines obsessions in OCD?
 A. Repetitive behaviors done to reduce anxiety
 B. Recurring thoughts or impulses that are intrusive or inappropriate and cause anxiety
 C. Mood swings between two extremes
@@ -232,7 +230,7 @@ D. Fear of a specific object
 Answer: B
 Why: Obsessions are recurring intrusive thoughts or impulses; compulsions are the behaviors performed in response.
 
-30. Compulsions in OCD are best described as:
+Compulsions in OCD are best described as:
 A. Intrusive images that appear without anxiety
 B. Delusional beliefs
 C. Planned and pleasurable habits
@@ -240,7 +238,7 @@ D. Repetitive behaviors or rituals that neutralize anxiety, with only temporary 
 Answer: D
 Why: Compulsions neutralize the anxiety caused by obsessive thoughts, but relief is only temporary.
 
-31. A client repeatedly washes her hands, showers constantly, and cleans her home. Which compulsion is this?
+A client repeatedly washes her hands, showers constantly, and cleans her home. Which compulsion is this?
 A. Cleaning
 B. Checking
 C. Hoarding
@@ -248,7 +246,7 @@ D. Slowness
 Answer: A
 Why: Repeated washing and cleaning is the cleaning compulsion.
 
-32. A client checks hundreds of times that the stove is off and the doors are locked. Which compulsion is this?
+A client checks hundreds of times that the stove is off and the doors are locked. Which compulsion is this?
 A. Repeating
 B. Hoarding
 C. Checking
@@ -256,7 +254,7 @@ D. Cleaning
 Answer: C
 Why: Checking involves verifying several or hundreds of times that things are turned off or locked.
 
-33. A client repeats a name, phrase, or action over and over. Which compulsion is this?
+A client repeats a name, phrase, or action over and over. Which compulsion is this?
 A. Checking
 B. Repeating
 C. Slowness
@@ -264,7 +262,7 @@ D. Cleaning
 Answer: B
 Why: Repeating is the compulsion to say or do something again and again.
 
-34. A client spends hours organizing and arranging objects in an excessively slow, methodical way. Which compulsion is this?
+A client spends hours organizing and arranging objects in an excessively slow, methodical way. Which compulsion is this?
 A. Hoarding
 B. Checking
 C. Repeating
@@ -272,7 +270,7 @@ D. Slowness
 Answer: D
 Why: Slowness is an excessively slow and methodical approach to daily activities.
 
-35. A client cannot throw away old newspapers, junk mail, or broken appliances. This is:
+A client cannot throw away old newspapers, junk mail, or broken appliances. This is:
 A. Hoarding
 B. Cleaning
 C. Checking
@@ -280,7 +278,7 @@ D. Repeating
 Answer: A
 Why: Hoarders cannot discard useless items.
 
-36. Which is an example of an obsession rather than a compulsion?
+Which is an example of an obsession rather than a compulsion?
 A. Washing hands ten times
 B. Persistent doubt about whether the door was locked
 C. Counting steps aloud
@@ -288,7 +286,7 @@ D. Arranging objects in order
 Answer: B
 Why: Persistent doubts are intrusive thoughts (obsessions); the others are behaviors (compulsions).
 
-37. Which statement about insight in OCD is accurate?
+Which statement about insight in OCD is accurate?
 A. The client never recognizes the symptoms as unreasonable
 B. The client believes the thoughts are inserted by others
 C. The sufferer usually recognizes the obsessions and compulsions as excessive or unreasonable
@@ -296,7 +294,7 @@ D. Insight is lost during every ritual
 Answer: C
 Why: Clients with OCD usually recognize that their obsessions and compulsions are excessive or unreasonable.
 
-38. Exposure to which event may result in PTSD?
+Exposure to which event may result in PTSD?
 A. A minor disagreement with a friend
 B. A routine dental visit
 C. A normal job transfer
@@ -304,7 +302,7 @@ D. A serious accident, natural disaster, or criminal assault
 Answer: D
 Why: PTSD follows traumas such as accidents, disasters, or assault when the aftermath interferes with functioning.
 
-39. Which is an example of reexperiencing in PTSD?
+Which is an example of reexperiencing in PTSD?
 A. Intrusive thoughts and recollections or recurrent dreams of the event
 B. Avoiding people associated with the trauma
 C. Exaggerated startle response
@@ -312,7 +310,7 @@ D. General numbness
 Answer: A
 Why: Reexperiencing takes the form of intrusive thoughts, recollections, or recurrent dreams.
 
-40. A veteran avoids activities, people, and conversations that remind him of combat. Which PTSD symptom is this?
+A veteran avoids activities, people, and conversations that remind him of combat. Which PTSD symptom is this?
 A. Reexperiencing
 B. Avoidance behavior
 C. Hypersensitivity
@@ -320,7 +318,7 @@ D. Grandiosity
 Answer: B
 Why: Avoiding situations, people, and conversations associated with the trauma is avoidance behavior.
 
-41. A client with PTSD shows general numbness and loss of interest in surroundings. This represents:
+A client with PTSD shows general numbness and loss of interest in surroundings. This represents:
 A. Reexperiencing
 B. Hypersensitivity
 C. Emotional numbing
@@ -328,7 +326,7 @@ D. A manic symptom
 Answer: C
 Why: General numbness and loss of interest is one of the symptom groups of PTSD.
 
-42. Which PTSD finding reflects hypersensitivity?
+Which PTSD finding reflects hypersensitivity?
 A. Recurrent dreams of the event
 B. Avoiding trauma reminders
 C. Loss of interest in surroundings
@@ -336,7 +334,7 @@ D. Inability to sleep, hypervigilance, overactive startle response, irritability
 Answer: D
 Why: These are the listed hyperarousal symptoms of PTSD.
 
-43. Social anxiety disorder (social phobia) is characterized by:
+Social anxiety disorder (social phobia) is characterized by:
 A. Intense fear of social situations because the individual believes he may be judged, scrutinized, or humiliated
 B. Fear of leaving home due to panic
 C. Fear of a single animal
@@ -344,7 +342,7 @@ D. Persistent worry about many life events for 6 months
 Answer: A
 Why: Fear arises when the person believes others may judge or humiliate him; extreme cases can progress to panic.
 
-44. Which situations commonly provoke social anxiety?
+Which situations commonly provoke social anxiety?
 A. Heights, storms, darkness
 B. Public speaking, interviewing, eating or writing in public, meeting new people
 C. Needles and blood
@@ -352,7 +350,7 @@ D. Tunnels and elevators
 Answer: B
 Why: These are listed social situations; the others are specific phobias.
 
-45. A specific phobia is best defined as:
+A specific phobia is best defined as:
 A. A vague unease without a source
 B. A repetitive ritual
 C. An illogical, intense, and persistent fear of a specific object that causes extreme distress and interferes with normal functions
@@ -360,7 +358,7 @@ D. A mood disorder of at least 2 years
 Answer: C
 Why: This is the lecture definition of a specific phobia.
 
-46. A client has an intense, persistent fear of heights. This phobia is called:
+A client has an intense, persistent fear of heights. This phobia is called:
 A. Astraphobia
 B. Hydrophobia
 C. Scotophobia
@@ -368,7 +366,7 @@ D. Acrophobia
 Answer: D
 Why: Acrophobia is fear of heights; astraphobia is storms, hydrophobia is water, scotophobia is darkness.
 
-47. Astraphobia is the fear of:
+Astraphobia is the fear of:
 A. Storms
 B. Fire
 C. Water
@@ -376,7 +374,7 @@ D. Darkness
 Answer: A
 Why: Astraphobia is a natural environmental phobia involving storms.
 
-48. Which phobia is the fear of fire?
+Which phobia is the fear of fire?
 A. Scotophobia
 B. Pyrophobia
 C. Hydrophobia
@@ -384,7 +382,7 @@ D. Acrophobia
 Answer: B
 Why: Pyrophobia is fear of fire.
 
-49. Fear of being in an elevator, tunnel, or small room belongs to which category of specific phobia?
+Fear of being in an elevator, tunnel, or small room belongs to which category of specific phobia?
 A. Animal
 B. Blood-injection
 C. Situational
@@ -392,7 +390,7 @@ D. Natural environmental
 Answer: C
 Why: Situational phobias include claustrophobia, gephyrophobia (bridges), nosocomephobia (hospitals), and aviophobia (airplanes).
 
-50. Trypanophobia is the fear of:
+Trypanophobia is the fear of:
 A. Insects
 B. Seeing blood
 C. Hospitals
@@ -400,7 +398,7 @@ D. Medical procedures involving needles
 Answer: D
 Why: Trypanophobia is a blood-injection phobia; hemophobia is fear of seeing blood, injury, or an invasive procedure.
 
-51. Which animals are the most common phobic objects?
+Which animals are the most common phobic objects?
 A. Dogs and cats
 B. Rats and snakes
 C. Birds and fish
@@ -408,7 +406,7 @@ D. Horses and cows
 Answer: A
 Why: Dogs (cyanophobia) and cats (ailurophobia) are the most common; animal phobia often develops in childhood.
 
-52. Katsaridaphobia is the fear of:
+Katsaridaphobia is the fear of:
 A. Rats
 B. Cockroaches
 C. Insects in general
@@ -416,7 +414,7 @@ D. Dogs
 Answer: B
 Why: Katsaridaphobia is fear of cockroaches; murophobia is rats; entomophobia is insects.
 
-53. Generalized anxiety disorder is characterized by:
+Generalized anxiety disorder is characterized by:
 A. Attacks lasting 15 to 30 minutes
 B. Rituals that neutralize obsessions
 C. At least 6 months of persistent and excessive worry and anxiety
@@ -424,7 +422,7 @@ D. Fear of one specific object
 Answer: C
 Why: GAD requires at least 6 months of persistent and excessive worry.
 
-54. Which findings are consistent with GAD?
+Which findings are consistent with GAD?
 A. Hallucinations and delusions
 B. Grandiosity and decreased need for sleep
 C. Echolalia and stereotyped movements
@@ -432,7 +430,7 @@ D. Restlessness, difficulty concentrating, sleep disorders, palpitations, feelin
 Answer: D
 Why: These are the listed features of GAD.
 
-55. Which therapy progressively exposes the client to the threatening object in a safe setting until anxiety decreases?
+Which therapy progressively exposes the client to the threatening object in a safe setting until anxiety decreases?
 A. Systematic desensitization
 B. Flooding
 C. Psychodynamic therapy
@@ -440,7 +438,7 @@ D. Electroconvulsive therapy
 Answer: A
 Why: Systematic desensitization is gradual exposure; flooding is rapid exposure.
 
-56. In which treatment does the therapist confront the client with the phobic object (picture or actual) until it no longer produces anxiety?
+In which treatment does the therapist confront the client with the phobic object (picture or actual) until it no longer produces anxiety?
 A. Systematic desensitization
 B. Flooding
 C. Cognitive restructuring
@@ -448,7 +446,7 @@ D. Group therapy
 Answer: B
 Why: Flooding is a form of rapid desensitization.
 
-57. Which statement about buspirone is correct?
+Which statement about buspirone is correct?
 A. It acts within minutes
 B. It is highly addictive
 C. It usually takes 3 to 4 weeks to be effective and is particularly useful in elderly patients
@@ -456,7 +454,7 @@ D. It must be avoided in anxiety disorders
 Answer: C
 Why: Buspirone is effective but slow-acting, and is particularly useful in the elderly.
 
-58. Which statement about benzodiazepines such as Xanax and Valium is correct?
+Which statement about benzodiazepines such as Xanax and Valium is correct?
 A. They take 3 to 4 weeks to work
 B. They are never addictive
 C. They gain effectiveness over time
@@ -464,7 +462,7 @@ D. They act rapidly and successfully but can be addictive and lose effectiveness
 Answer: D
 Why: Rapid action, addiction potential, and loss of effectiveness over time characterize benzodiazepines.
 
-59. Which of the following is NOT a benzodiazepine?
+Which of the following is NOT a benzodiazepine?
 A. Buspirone
 B. Lorazepam
 C. Diazepam
@@ -472,7 +470,7 @@ D. Alprazolam
 Answer: A
 Why: The LOAD mnemonic covers Lorazepam, Oxazepam, Alprazolam, Diazepam; Buspirone is the non-benzodiazepine anxiolytic.
 
-60. Which side effects are listed for antianxiety medications?
+Which side effects are listed for antianxiety medications?
 A. Hypertensive crisis and tyramine reaction
 B. Dizziness, headaches, nausea, impaired memory
 C. Tremors and polyuria
@@ -480,7 +478,7 @@ D. Weight gain and carbohydrate cravings
 Answer: B
 Why: These are the side effects given in the lecture.
 
-61. A client with a cleaning compulsion has raw, cracked hands from scrubbing. Which nursing diagnosis applies?
+A client with a cleaning compulsion has raw, cracked hands from scrubbing. Which nursing diagnosis applies?
 A. Powerlessness
 B. Disturbed body image
 C. Risk for suicide
@@ -488,7 +486,7 @@ D. Impaired skin integrity
 Answer: D
 Why: Ineffective individual coping, powerlessness, and impaired skin integrity are nursing diagnoses for anxiety disorders; skin damage results from excessive washing.
 
-62. Which therapy teaches patients that changing how they perceive feelings of anxiety makes anxiety less likely?
+Which therapy teaches patients that changing how they perceive feelings of anxiety makes anxiety less likely?
 A. Behavioral and cognitive therapy
 B. Psychodynamic therapy
 C. Flooding
@@ -496,7 +494,7 @@ D. Hypnosis
 Answer: A
 Why: It teaches how thinking patterns contribute to symptoms and how to react differently to triggers.
 
-63. Which therapy assumes defenses cause more harm than good, brings feelings to the surface, and is extremely labor intensive and long?
+Which therapy assumes defenses cause more harm than good, brings feelings to the surface, and is extremely labor intensive and long?
 A. Systematic desensitization
 B. Behavioral therapy
 C. Psychodynamic psychotherapy
@@ -504,7 +502,7 @@ D. Flooding
 Answer: C
 Why: Psychodynamic therapy brings buried painful feelings to awareness and takes an extremely long time.
 
-64. Somatization is defined as:
+Somatization is defined as:
 A. Loss of identity
 B. Intentional faking of symptoms
 C. The transference of mental experience and states into bodily symptoms
@@ -512,7 +510,7 @@ D. Fear of having a serious disease
 Answer: C
 Why: Somatization converts mental experience into bodily symptoms.
 
-65. The term psychosomatic is used to convey:
+The term psychosomatic is used to convey:
 A. The connection between the mind (psyche) and the body (soma) in states of health and illness
 B. Deliberate production of symptoms
 C. A purely organic disease
@@ -520,7 +518,7 @@ D. A learned phobia
 Answer: A
 Why: Psyche means mind and soma means body.
 
-66. Hysteria originally referred to:
+Hysteria originally referred to:
 A. Cyclic mood changes
 B. Loss of memory
 C. Fear of open spaces
@@ -528,7 +526,7 @@ D. Multiple physical complaints with no organic basis that are usually described
 Answer: D
 Why: Hysteria described dramatic multiple physical complaints without organic cause.
 
-67. The concept of hysteria originated in which place and about how long ago?
+The concept of hysteria originated in which place and about how long ago?
 A. Greece, about 400 years
 B. Egypt, about 4,000 years
 C. Rome, about 40 years
@@ -536,7 +534,7 @@ D. India, about 1,000 years
 Answer: B
 Why: The lecture states it originated in Egypt and is about 4,000 years old.
 
-68. In the Middle Ages, hysteria was associated with:
+In the Middle Ages, hysteria was associated with:
 A. Nutritional deficiency
 B. Poor hygiene
 C. Witchcraft, demons, and sorcerers
@@ -544,7 +542,7 @@ D. Brain tumors
 Answer: C
 Why: Women with hysteria were thought to be possessed by evil spirits.
 
-69. In the early 1800s the medical field began to:
+In the early 1800s the medical field began to:
 A. Consider the various social and psychologic factors that influence illness
 B. Ban the term hysteria
 C. Use antidepressants
@@ -552,7 +550,7 @@ D. Study only organic causes
 Answer: A
 Why: This shift paved the way for the psychosomatic concept.
 
-70. Somatoform disorders are characterized by:
+Somatoform disorders are characterized by:
 A. Intentional production of symptoms for gain
 B. Gaps in memory
 C. Rapid mood cycling
@@ -560,7 +558,7 @@ D. Physical symptoms that suggest a medical condition without a demonstrable org
 Answer: D
 Why: The symptoms are not fully explained by an organic condition and are not intentionally produced.
 
-71. Which is a feature of somatoform disorders?
+Which is a feature of somatoform disorders?
 A. Symptoms are always under voluntary control
 B. Psychologic factors and conflicts seem important in initiating, exacerbating, and maintaining symptoms
 C. Symptoms are fully explained by a medical illness
@@ -568,7 +566,7 @@ D. They occur only in children
 Answer: B
 Why: Psychologic factors are central to onset and maintenance.
 
-72. Somatization disorder is characterized by:
+Somatization disorder is characterized by:
 A. A single sudden neurologic deficit
 B. Preoccupation with an imagined defect
 C. Multiple physical symptoms that begin by age 30 and extend over several years
@@ -576,7 +574,7 @@ D. Fear of a disease for a few days
 Answer: C
 Why: It begins before 30 and persists for years.
 
-73. Which combination of symptoms is part of somatization disorder?
+Which combination of symptoms is part of somatization disorder?
 A. Pain, gastrointestinal, sexual, and pseudoneurologic symptoms
 B. Only cardiac symptoms
 C. Only memory loss
@@ -584,7 +582,7 @@ D. Hallucinations and delusions
 Answer: A
 Why: These four symptom groups define the disorder.
 
-74. Conversion disorder involves:
+Conversion disorder involves:
 A. Gradual mood decline
 B. Intentional deception
 C. Preoccupation with disease
@@ -592,7 +590,7 @@ D. Unexplained, usually sudden deficits in sensory or motor function
 Answer: D
 Why: Deficits suggest a neurologic disorder but are associated with psychologic factors.
 
-75. Which is an example of a conversion symptom?
+Which is an example of a conversion symptom?
 A. Counting rituals
 B. Blindness or paralysis without organic cause
 C. Chronic worry
@@ -600,7 +598,7 @@ D. Fear of heights
 Answer: B
 Why: Blindness and paralysis are typical examples.
 
-76. La belle indifference in conversion disorder means:
+La belle indifference in conversion disorder means:
 A. Intense fear of the deficit
 B. Anger at the deficit
 C. A lack of concern about the symptom
@@ -608,7 +606,7 @@ D. Exaggerated dramatization
 Answer: C
 Why: The client does not seem to care about the deficit.
 
-77. Hypochondriasis is best described as:
+Hypochondriasis is best described as:
 A. Preoccupation with the fear of having a serious disease, often misinterpreting bodily sensations
 B. Production of symptoms for money
 C. Pain unrelieved by analgesics
@@ -616,7 +614,7 @@ D. Preoccupation with appearance
 Answer: A
 Why: The client has minor discomfort and interprets it as major illness.
 
-78. In hypochondriasis, "disease conviction" refers to:
+In hypochondriasis, "disease conviction" refers to:
 A. Fear of getting a serious disease
 B. Pain without cause
 C. Dread of hospitals
@@ -624,7 +622,7 @@ D. The belief that one has a serious disease
 Answer: D
 Why: Disease phobia is fear of getting a serious disease; disease conviction is belief one has it.
 
-79. Pain disorder has which feature?
+Pain disorder has which feature?
 A. Pain that is always relieved by analgesics
 B. Pain as the primary physical symptom, generally unrelieved by analgesics and greatly affected by psychologic factors
 C. Pain that is feigned for gain
@@ -632,7 +630,7 @@ D. Pain that has a clear organic cause
 Answer: B
 Why: Psychologic factors influence onset, severity, exacerbation, and maintenance.
 
-80. Body dysmorphic disorder is:
+Body dysmorphic disorder is:
 A. Desire for amputation
 B. Fear of illness
 C. Preoccupation with an imagined or exaggerated defect in physical appearance
@@ -640,7 +638,7 @@ D. Multiple unexplained symptoms
 Answer: C
 Why: Example: thinking one's nose is too large or teeth are crooked.
 
-81. A client with body dysmorphic disorder has seen many doctors for an imagined defect. This behavior is called:
+A client with body dysmorphic disorder has seen many doctors for an imagined defect. This behavior is called:
 A. Doctor hopping
 B. Malingering
 C. Splitting
@@ -648,7 +646,7 @@ D. Projection
 Answer: A
 Why: Doctor hopping is a favorite pastime of these clients.
 
-82. Which disorders are more common in women than in men?
+Which disorders are more common in women than in men?
 A. Hypochondriasis and BDD
 B. BDD only
 C. Malingering only
@@ -656,7 +654,7 @@ D. Somatization disorder, conversion disorder, and pain disorder
 Answer: D
 Why: These three are more common in women.
 
-83. Which disorders are distributed equally by gender?
+Which disorders are distributed equally by gender?
 A. Conversion and pain disorder
 B. Hypochondriasis and body dysmorphic disorder
 C. Somatization and conversion
@@ -664,7 +662,7 @@ D. Pain disorder and somatization
 Answer: B
 Why: The lecture states these two are equally distributed.
 
-84. Conversion disorder usually occurs between ages:
+Conversion disorder usually occurs between ages:
 A. 1 and 5
 B. 40 and 60
 C. 10 and 35
@@ -672,7 +670,7 @@ D. 60 and 80
 Answer: C
 Why: Pain disorder and hypochondriasis can occur at any age.
 
-85. Which disorders can occur at any age?
+Which disorders can occur at any age?
 A. Pain disorder and hypochondriasis
 B. Conversion disorder only
 C. Somatization only
@@ -680,7 +678,7 @@ D. BDD only
 Answer: A
 Why: They have no characteristic age of onset.
 
-86. Clients with somatization disorder and BDD often have symptoms in adolescence, but diagnosis may not be made until about age:
+Clients with somatization disorder and BDD often have symptoms in adolescence, but diagnosis may not be made until about age:
 A. 10
 B. 15
 C. 18
@@ -688,7 +686,7 @@ D. 25
 Answer: D
 Why: Diagnoses may not be made until early adulthood, about 25 years.
 
-87. Malingering is:
+Malingering is:
 A. Unconscious conversion of anxiety
 B. Intentional production of false or grossly exaggerated symptoms motivated by external incentives
 C. Fear of disease
@@ -696,7 +694,7 @@ D. Loss of identity
 Answer: B
 Why: It is conscious and goal-directed.
 
-88. A person who malingers typically:
+A person who malingers typically:
 A. Has real physical symptoms
 B. Cannot control the symptoms
 C. Stops the symptoms as soon as the desired goal is gained
@@ -704,7 +702,7 @@ D. Seeks only attention
 Answer: C
 Why: Malingerers have no real symptoms and drop them after gaining what they wanted.
 
-89. Which is an example of an external incentive in malingering?
+Which is an example of an external incentive in malingering?
 A. Avoiding work or evading criminal prosecution
 B. Gaining attention alone
 C. Relief of anxiety
@@ -712,7 +710,7 @@ D. Being brought tea by family
 Answer: A
 Why: Other incentives include financial compensation and obtaining drugs.
 
-90. Factitious disorder occurs when a person:
+Factitious disorder occurs when a person:
 A. Fakes symptoms to avoid jail
 B. Has a real organic illness
 C. Fears disease without symptoms
@@ -720,7 +718,7 @@ D. Intentionally produces or feigns symptoms solely to gain attention
 Answer: D
 Why: These clients may inflict injury on themselves to receive attention.
 
-91. Munchausen syndrome by proxy occurs when a person:
+Munchausen syndrome by proxy occurs when a person:
 A. Fakes his own symptoms
 B. Inflicts illness or injury on someone else to gain the attention of emergency personnel or to be a "hero" for saving the victim
 C. Fears a disease
@@ -728,7 +726,7 @@ D. Has a real organic illness
 Answer: B
 Why: The victim is another person, and the perpetrator seeks attention or hero status.
 
-92. Body identity integrity disorder (BIID) refers to people who:
+Body identity integrity disorder (BIID) refers to people who:
 A. Believe their nose is too large
 B. Fear getting a disease
 C. Feel alienated from a part of their body and desire amputation
@@ -736,7 +734,7 @@ D. Lose their identity and travel away
 Answer: C
 Why: BIID is the term for alienation from a body part with desire for amputation.
 
-93. The relief of anxiety, conflict, or distress that being sick provides is called:
+The relief of anxiety, conflict, or distress that being sick provides is called:
 A. Primary gain
 B. Secondary gain
 C. Projection
@@ -744,7 +742,7 @@ D. Reaction formation
 Answer: A
 Why: Primary gains relieve anxiety, conflict, or distress through the symptom itself.
 
-94. Which describes secondary gain?
+Which describes secondary gain?
 A. Relief of internal conflict
 B. Avoiding prosecution
 C. Reduction of anxiety
@@ -752,7 +750,7 @@ D. Benefits received from others because one is sick, such as attention, comfort
 Answer: D
 Why: Secondary gains are benefits from others, such as attention from family and comfort measures.
 
-95. A client with chronic headaches receives extra attention and is brought tea by family members. This is an example of:
+A client with chronic headaches receives extra attention and is brought tea by family members. This is an example of:
 A. Primary gain
 B. Secondary gain
 C. Malingering
@@ -760,7 +758,7 @@ D. Depersonalization
 Answer: B
 Why: The benefits come from others because the client is sick.
 
-96. Which nursing diagnoses are associated with somatoform disorders?
+Which nursing diagnoses are associated with somatoform disorders?
 A. Risk for violence and sleep pattern disturbance
 B. Impaired gas exchange and risk for infection
 C. Ineffective coping, deficient knowledge, low self-esteem, ineffective role performance, disturbed sensory perception, disturbed body image
@@ -768,7 +766,7 @@ D. Hyperthermia and fluid volume deficit
 Answer: C
 Why: These are the diagnoses listed for the somatoform group.
 
-97. During assessment of a client with somatoform symptoms, the nurse should collect data about:
+During assessment of a client with somatoform symptoms, the nurse should collect data about:
 A. Nature, location, onset, characteristics, and duration of symptoms
 B. Only the client's family history
 C. Only laboratory results
@@ -776,7 +774,7 @@ D. Only the client's occupation
 Answer: A
 Why: Detailed symptom data is a core assessment step.
 
-98. Why does the nurse determine whether symptoms are under voluntary control?
+Why does the nurse determine whether symptoms are under voluntary control?
 A. To punish the client
 B. To choose a diet
 C. To plan discharge
@@ -784,7 +782,7 @@ D. To help distinguish somatoform disorders from intentional production of sympt
 Answer: D
 Why: Voluntary control suggests malingering or factitious disorder rather than a somatoform disorder.
 
-99. The nurse assesses the client's ability to communicate emotional needs because this ability is:
+The nurse assesses the client's ability to communicate emotional needs because this ability is:
 A. Always strong
 B. Often lacking in clients with somatoform disorders
 C. Irrelevant
@@ -792,7 +790,7 @@ D. Present only in children
 Answer: B
 Why: Clients express emotional needs through physical symptoms.
 
-100. Which is an important nursing intervention for a client with somatoform disorder?
+Which is an important nursing intervention for a client with somatoform disorder?
 A. Tell the client the symptoms are imaginary
 B. Ignore all complaints
 C. Take the symptoms seriously
@@ -800,7 +798,7 @@ D. Order repeated tests on request
 Answer: C
 Why: Symptoms are real to the client; dismissing them harms the relationship.
 
-101. After the physical complaint has been investigated, the nurse should:
+After the physical complaint has been investigated, the nurse should:
 A. Avoid further reinforcement of the complaint
 B. Keep discussing symptoms at length
 C. Offer extra attention each time pain is reported
@@ -808,7 +806,7 @@ D. Discharge the client
 Answer: A
 Why: Reinforcement prolongs secondary gain.
 
-102. Which action helps reduce attention-seeking through symptoms?
+Which action helps reduce attention-seeking through symptoms?
 A. Visiting only when complaints occur
 B. Giving medications every hour
 C. Avoiding the client
@@ -816,7 +814,7 @@ D. Spending time with the client at times other than when complaints occur
 Answer: D
 Why: Attention is given for the person, not for the symptom.
 
-103. The nurse should shift the focus of discussion from:
+The nurse should shift the focus of discussion from:
 A. Feelings to somatic complaints
 B. Somatic complaints to feelings
 C. The family to the client
@@ -824,7 +822,7 @@ D. Treatment to diagnosis
 Answer: B
 Why: Expressing feelings replaces expressing distress through the body.
 
-104. Long-term treatment of somatoform disorders is usually done:
+Long-term treatment of somatoform disorders is usually done:
 A. In a locked unit
 B. In the ICU
 C. On an outpatient basis, with interventions focused on establishing a relationship
@@ -832,7 +830,7 @@ D. Only in the emergency department
 Answer: C
 Why: Outpatient care with a therapeutic relationship is the usual approach.
 
-105. Which approach is recommended when a client with somatoform disorder is resistant or angry?
+Which approach is recommended when a client with somatoform disorder is resistant or angry?
 A. A matter-of-fact (straightforward and unemotional) approach
 B. An argumentative approach
 C. Pleading
@@ -840,7 +838,7 @@ D. Fostering dependence
 Answer: A
 Why: The nurse avoids fostering dependence and teaches assertive communication.
 
-106. Which expected outcome is most realistic for these clients?
+Which expected outcome is most realistic for these clients?
 A. Full resolution within a week
 B. Immediate acceptance of psychologic causes
 C. Goals met completely every time
@@ -848,7 +846,7 @@ D. Behaviorally measurable outcomes, with goals often only partially met because
 Answer: D
 Why: Measurable behavioral outcomes are important, but partial attainment is common.
 
-107. Which treatments are used for somatoform disorders?
+Which treatments are used for somatoform disorders?
 A. Lithium and ECT
 B. SSRIs, short-term antianxiety medications (dependence risk), cognitive and behavioral therapy, group therapy
 C. Stimulants only
@@ -856,7 +854,7 @@ D. Surgery
 Answer: B
 Why: Medical management uses antidepressants and short-term antianxiety agents with psychotherapy.
 
-108. Dissociation is best defined as:
+Dissociation is best defined as:
 A. A fixed false belief
 B. A persistent low mood
 C. A disruption in the normally integrated functions of identity, consciousness, memory, and perception
@@ -864,7 +862,7 @@ D. A fear of leaving home
 Answer: C
 Why: It may result in amnesia, depersonalization, and/or multiple personalities.
 
-109. Dissociative symptoms are considered disorders only when they are:
+Dissociative symptoms are considered disorders only when they are:
 A. Not due to a substance or general medical condition
 B. Caused by intoxication
 C. Due to brain injury
@@ -872,7 +870,7 @@ D. Brief and occasional
 Answer: A
 Why: Dissociation as a disorder is not due to the effects of a substance or medical condition.
 
-110. Which is a common dissociative experience in everyday life?
+Which is a common dissociative experience in everyday life?
 A. Hearing voices
 B. Recurrent amnesia of identity
 C. Switching personalities
@@ -880,7 +878,7 @@ D. Driving to one place when intending to drive elsewhere
 Answer: D
 Why: Daydreaming, vivid fantasizing, and forgetting part of the drive home are normal.
 
-111. Which can contribute to dissociation?
+Which can contribute to dissociation?
 A. Excess sleep
 B. Fatigue, sleep deprivation, stress, binge drinking, drug use
 C. High fluid intake
@@ -888,7 +886,7 @@ D. Regular exercise
 Answer: B
 Why: These are listed possible causes.
 
-112. Dissociative symptoms become concerning when they are:
+Dissociative symptoms become concerning when they are:
 A. Chronic and defining features of a person's life
 B. Occasional
 C. Brief
@@ -896,7 +894,7 @@ D. Related to daydreaming
 Answer: A
 Why: Occasional experiences are normal; chronic ones that define the person's life are concerning.
 
-113. Why is cultural influence considered in diagnosis?
+Why is cultural influence considered in diagnosis?
 A. It does not matter
 B. Culture causes all dissociation
 C. Some dissociative states are accepted as part of religious or social experiences in a culture
@@ -904,7 +902,7 @@ D. It determines medication
 Answer: C
 Why: The nurse asks whether the state is culturally accepted before labeling it a disorder.
 
-114. Which findings are relevant clinical clues for dissociative disorders?
+Which findings are relevant clinical clues for dissociative disorders?
 A. Weight gain and edema
 B. Elevated blood pressure
 C. Constipation
@@ -912,7 +910,7 @@ D. Unexplained changes in handwriting, amnesia, time distortions or lapses, erra
 Answer: D
 Why: These are listed relevant clinical information.
 
-115. Which are the dissociative disorders in the lecture?
+Which are the dissociative disorders in the lecture?
 A. Somatization, conversion, pain, hypochondriasis
 B. Dissociative amnesia, dissociative fugue, depersonalization disorder, dissociative identity disorder
 C. Panic, OCD, PTSD, GAD
@@ -920,7 +918,7 @@ D. Antisocial, borderline, histrionic, narcissistic
 Answer: B
 Why: These four make up the group.
 
-116. Dissociative identity disorder was formerly known as:
+Dissociative identity disorder was formerly known as:
 A. Multiple personality disorder
 B. Hysteria
 C. Fugue
@@ -928,7 +926,7 @@ D. Conversion disorder
 Answer: A
 Why: It is characterized by disturbances in identity and memory.
 
-117. Which condition can also present with dissociative symptoms?
+Which condition can also present with dissociative symptoms?
 A. Hypertension
 B. Asthma
 C. Substance intoxication, psychosis, depression, personality disorders, malingering
@@ -936,7 +934,7 @@ D. Diabetes
 Answer: C
 Why: These conditions must be considered in the differential.
 
-118. Dissociative amnesia is characterized by:
+Dissociative amnesia is characterized by:
 A. Moving away and assuming a new identity
 B. Feeling detached from one's body
 C. Multiple identities
@@ -944,7 +942,7 @@ D. Forgetting important personal facts, including personal identity, with no app
 Answer: D
 Why: It is the forgetting of important personal information without organic cause.
 
-119. The inability to form new memories after the condition producing the amnesia occurred is:
+The inability to form new memories after the condition producing the amnesia occurred is:
 A. Retrograde amnesia
 B. Anterograde amnesia
 C. Psychogenic amnesia
@@ -952,7 +950,7 @@ D. Organic amnesia
 Answer: B
 Why: Dissociative amnesia seldom involves anterograde amnesia.
 
-120. Loss of memory for events that occurred before the onset of the amnesia is:
+Loss of memory for events that occurred before the onset of the amnesia is:
 A. Retrograde amnesia
 B. Anterograde amnesia
 C. Continuous amnesia
@@ -960,7 +958,7 @@ D. Systematized amnesia
 Answer: A
 Why: Dissociative amnesia usually involves retrograde amnesia for personal information.
 
-121. Which type of amnesia does dissociative amnesia usually involve?
+Which type of amnesia does dissociative amnesia usually involve?
 A. Anterograde amnesia for general information
 B. Organic amnesia
 C. Retrograde amnesia for personal rather than general information
@@ -968,7 +966,7 @@ D. Amnesia from surgery
 Answer: C
 Why: Personal information is lost, not general knowledge.
 
-122. Amnesia due to a traumatic or extremely stressful event is called:
+Amnesia due to a traumatic or extremely stressful event is called:
 A. Organic amnesia
 B. Anterograde amnesia
 C. Retrograde amnesia
@@ -976,7 +974,7 @@ D. Psychogenic amnesia
 Answer: D
 Why: Psychogenic means psychologic in origin.
 
-123. Amnesia due to brain injury from disease, drugs, accident, or surgery is:
+Amnesia due to brain injury from disease, drugs, accident, or surgery is:
 A. Psychogenic
 B. Organic
 C. Dissociative
@@ -984,7 +982,7 @@ D. Selective
 Answer: B
 Why: Organic amnesia has a physical cause.
 
-124. Which is part of the diagnostic criteria for dissociative amnesia?
+Which is part of the diagnostic criteria for dissociative amnesia?
 A. One or more episodes of inability to recall important personal information that cannot be attributed to ordinary forgetfulness
 B. Two or more identities
 C. Sudden travel with a new identity
@@ -992,7 +990,7 @@ D. Persistent feelings of unreality
 Answer: A
 Why: Gaps are most commonly related to traumatic or extremely stressful events.
 
-125. Inability to remember all events during a circumscribed period of time is:
+Inability to remember all events during a circumscribed period of time is:
 A. Selective amnesia
 B. Generalized amnesia
 C. Localized amnesia
@@ -1000,7 +998,7 @@ D. Continuous amnesia
 Answer: C
 Why: Localized amnesia covers all events in a specific time period.
 
-126. Inability to remember specific events during a circumscribed period of time is:
+Inability to remember specific events during a circumscribed period of time is:
 A. Localized amnesia
 B. Generalized amnesia
 C. Systematized amnesia
@@ -1008,7 +1006,7 @@ D. Selective amnesia
 Answer: D
 Why: Only some events in the time period are lost.
 
-127. Loss of memory that encompasses everything, including one's identity, is:
+Loss of memory that encompasses everything, including one's identity, is:
 A. Selective amnesia
 B. Generalized amnesia
 C. Localized amnesia
@@ -1016,7 +1014,7 @@ D. Continuous amnesia
 Answer: B
 Why: Generalized amnesia is total.
 
-128. Inability to recall events subsequent to a specific point in time through the present is:
+Inability to recall events subsequent to a specific point in time through the present is:
 A. Continuous amnesia
 B. Localized amnesia
 C. Systematized amnesia
@@ -1024,7 +1022,7 @@ D. Generalized amnesia
 Answer: A
 Why: It continues forward from a given time to the present.
 
-129. A client cannot recall any memories related to her father but remembers other events. This is:
+A client cannot recall any memories related to her father but remembers other events. This is:
 A. Localized amnesia
 B. Selective amnesia
 C. Systematized amnesia
@@ -1032,7 +1030,7 @@ D. Generalized amnesia
 Answer: C
 Why: Systematized amnesia is loss of a certain category of information.
 
-130. Which factor contributes to the etiology of dissociative amnesia?
+Which factor contributes to the etiology of dissociative amnesia?
 A. Intact memory storage
 B. Absence of stress
 C. Normal arousal
@@ -1040,7 +1038,7 @@ D. Poor storage of information during traumatic events due to overarousal, avoid
 Answer: D
 Why: It typically follows traumatic events and extreme life stress.
 
-131. Which is a goal in treating dissociative amnesia?
+Which is a goal in treating dissociative amnesia?
 A. Avoid discussing trauma
 B. Help the person remember forgotten or traumatic events in a controlled way and integrate them
 C. Increase isolation
@@ -1048,7 +1046,7 @@ D. Prescribe lithium
 Answer: B
 Why: Other goals are resolving distressing situations and strengthening coping skills.
 
-132. Which interventions are used for dissociative amnesia?
+Which interventions are used for dissociative amnesia?
 A. Family involvement to recall what happened, trauma work, and hypnosis
 B. Surgery
 C. ECT
@@ -1056,7 +1054,7 @@ D. Seclusion
 Answer: A
 Why: These are listed interventions.
 
-133. In dissociative fugue the person:
+In dissociative fugue the person:
 A. Feels detached from the body
 B. Has two or more personalities
 C. Suddenly moves away and assumes a new identity with amnesia for the previous identity
@@ -1064,7 +1062,7 @@ D. Cannot form new memories
 Answer: C
 Why: Fugue combines sudden travel with a new identity.
 
-134. Which finding is included in the DSM-IV-TR fugue criteria?
+Which finding is included in the DSM-IV-TR fugue criteria?
 A. Gradual mood decline
 B. Hallucinations
 C. Intrusive memories
@@ -1072,7 +1070,7 @@ D. Abrupt, unexpected travel away from home with inability to recall some or all
 Answer: D
 Why: The person may be confused about identity or assume a new one.
 
-135. A person in fugue who has assumed a new identity may:
+A person in fugue who has assumed a new identity may:
 A. Seem obviously ill
 B. Seem "normal" to people who don't know him or her previously
 C. Always be hostile
@@ -1080,7 +1078,7 @@ D. Be unable to speak
 Answer: B
 Why: The new identity can be partial or complete and appears normal to strangers.
 
-136. The prevalence of dissociative fugue is described as:
+The prevalence of dissociative fugue is described as:
 A. Very common, about 20%
 B. About 5%
 C. Very rare, about 0.2%
@@ -1088,7 +1086,7 @@ D. About 50%
 Answer: C
 Why: The lecture states fugue is very rare at 0.2%.
 
-137. What is the most common etiology of dissociative fugue?
+What is the most common etiology of dissociative fugue?
 A. A stressor or traumatic event, with the person escaping a threatening environment or intolerable situation
 B. A brain tumor
 C. Medication use
@@ -1096,7 +1094,7 @@ D. Normal aging
 Answer: A
 Why: Fugue is physical and mental escape from an intolerable situation.
 
-138. Which additional factors are associated with fugue?
+Which additional factors are associated with fugue?
 A. Excess sleep
 B. High intelligence
 C. Good coping
@@ -1104,7 +1102,7 @@ D. Chronic stress and depression
 Answer: D
 Why: These are listed in the etiology.
 
-139. Fugue states usually:
+Fugue states usually:
 A. Last for years
 B. End rather abruptly on their own
 C. Require surgery
@@ -1112,7 +1110,7 @@ D. Never end
 Answer: B
 Why: After the episode the person may or may not recall what took place.
 
-140. Which treatment is used for dissociative fugue?
+Which treatment is used for dissociative fugue?
 A. Supportive psychotherapy to identify and resolve stressors and learn better coping skills so fugue does not happen again
 B. Lithium
 C. Flooding
@@ -1120,7 +1118,7 @@ D. Aversion therapy
 Answer: A
 Why: The aim is to prevent recurrence by dealing with stressors.
 
-141. Depersonalization disorder involves:
+Depersonalization disorder involves:
 A. Loss of personal facts
 B. Two or more personalities
 C. Frequent episodes of feeling detached from one's own mental state or body, such as being an outside observer
@@ -1128,7 +1126,7 @@ D. Traveling with a new identity
 Answer: C
 Why: Examples include feeling like a robot or watching a movie.
 
-142. Which statement about reality testing in depersonalization is correct?
+Which statement about reality testing in depersonalization is correct?
 A. It is lost
 B. It is impaired
 C. It is replaced by hallucinations
@@ -1136,7 +1134,7 @@ D. It remains intact
 Answer: D
 Why: The person knows the feeling is not real.
 
-143. Derealization is characterized by:
+Derealization is characterized by:
 A. Forgetting a name
 B. Losing the sense of the external world, with people seeming mechanical, dead, or dreamlike
 C. Multiple identities
@@ -1144,7 +1142,7 @@ D. Fear of leaving home
 Answer: B
 Why: Things may seem to change size or shape.
 
-144. Occasional experiences of depersonalization are common. About what proportion of adults has a single brief episode?
+Occasional experiences of depersonalization are common. About what proportion of adults has a single brief episode?
 A. One-half
 B. One-tenth
 C. One-fiftieth
@@ -1152,7 +1150,7 @@ D. Almost none
 Answer: A
 Why: The lecture states half of all adults have a single brief episode.
 
-145. For a diagnosis of depersonalization disorder, symptoms must be:
+For a diagnosis of depersonalization disorder, symptoms must be:
 A. Brief and occasional
 B. Controlled at will
 C. Severe, persistent, and frequent enough to cause significant distress or impairment
@@ -1160,7 +1158,7 @@ D. Only at night
 Answer: C
 Why: Distress and impairment distinguish the disorder from normal experiences.
 
-146. Which research finding is reported for depersonalization disorder?
+Which research finding is reported for depersonalization disorder?
 A. Much is known about its treatment
 B. About 50% have additional anxiety and mood disorders
 C. It is rare in anxious people
@@ -1168,7 +1166,7 @@ D. It has no neurobiological correlates
 Answer: B
 Why: Cognitive deficits and HPA axis dysregulation are also reported.
 
-147. Which criterion is required for dissociative identity disorder?
+Which criterion is required for dissociative identity disorder?
 A. Fear of disease
 B. Pain for six months
 C. Sudden travel
@@ -1176,7 +1174,7 @@ D. Two or more distinct identities, at least two of which recurrently take contr
 Answer: D
 Why: The client also cannot recall important personal information beyond ordinary forgetfulness.
 
-148. In DID, alters are often:
+In DID, alters are often:
 A. Unaware of each other
 B. Identical
 C. Fully cooperative
@@ -1184,7 +1182,7 @@ D. Temporary only
 Answer: A
 Why: Each alter has its own pattern of perceiving, relating, thinking, behaviors, memories, and history.
 
-149. Switches between alters are usually:
+Switches between alters are usually:
 A. Slow and planned
 B. Triggered by medication
 C. Abrupt and often triggered by stress or external cues
@@ -1192,7 +1190,7 @@ D. Never observable
 Answer: C
 Why: Transitions are typically sudden.
 
-150. Which is common in clients with DID?
+Which is common in clients with DID?
 A. No comorbid conditions
 B. Self-mutilation, post-traumatic stress, conversion symptoms, suicidal behaviors, and comorbid depression, anxiety, eating, substance, and borderline personality disorders
 C. Calm affect
@@ -1200,7 +1198,7 @@ D. High social support
 Answer: B
 Why: Comorbidity is high.
 
-151. Which fact about DID is correct?
+Which fact about DID is correct?
 A. Onset is in late adulthood
 B. It is more frequent in men
 C. It tends to resolve without treatment
@@ -1208,7 +1206,7 @@ D. Onset is almost always in childhood, and it is 3 to 9 times more frequent in 
 Answer: D
 Why: Prevalence is 0.5% to 1.0% in nonclinical samples and 3% to 6% of severely disturbed inpatients.
 
-152. Women with DID tend to have:
+Women with DID tend to have:
 A. More identities than men (about 15 vs. 8)
 B. Fewer identities than men
 C. Only one alter
@@ -1216,7 +1214,7 @@ D. No alters
 Answer: A
 Why: The course tends to last a lifetime without treatment, and switching may decrease with age.
 
-153. Which factor is part of the etiology of DID?
+Which factor is part of the etiology of DID?
 A. Supportive family
 B. Alters created under conditions of extreme childhood trauma such as severe physical or sexual abuse
 C. Late-life stress only
@@ -1224,7 +1222,7 @@ D. Excess sleep
 Answer: B
 Why: Dissociation is a defense against extreme trauma; the developmental window closes at about 9 years of age.
 
-154. What is the main goal of treating DID?
+What is the main goal of treating DID?
 A. Strengthen the alters separately
 B. Encourage more alters
 C. Integrate the alters into one coherent personality, using long-term psychotherapy, while doing no harm and not encouraging disintegration
@@ -1232,7 +1230,7 @@ D. Remove all memories
 Answer: C
 Why: Treatment identifies each personality's function, negotiates fusion, and uses trauma work; hypnosis is common but controversial.
 
-155. Mood disorders are best described as:
+Mood disorders are best described as:
 A. Fear of objects
 B. Loss of memory
 C. Fixed beliefs
@@ -1240,7 +1238,7 @@ D. Pervasive alterations in emotions manifested by depression, mania, or both
 Answer: D
 Why: They interfere with life, causing drastic and long-term sadness, agitation, or elation.
 
-156. Another name for mood disorders is:
+Another name for mood disorders is:
 A. Affective disorders
 B. Somatoform disorders
 C. Personality disorders
@@ -1248,7 +1246,7 @@ D. Anxiety disorders
 Answer: A
 Why: Affect means emotion or mood.
 
-157. First-degree relatives of people with bipolar disorder have what risk of developing it?
+First-degree relatives of people with bipolar disorder have what risk of developing it?
 A. 1% to 2%
 B. 15% to 20%
 C. 3% to 8%
@@ -1256,7 +1254,7 @@ D. 50%
 Answer: C
 Why: This is the genetic risk given in the lecture.
 
-158. Which neurotransmitters are the two major biogenic amines implicated in mood disorders?
+Which neurotransmitters are the two major biogenic amines implicated in mood disorders?
 A. Dopamine and GABA
 B. Serotonin and norepinephrine
 C. Acetylcholine and glutamate
@@ -1264,7 +1262,7 @@ D. Histamine and insulin
 Answer: B
 Why: Neurochemical theory focuses on serotonin and norepinephrine.
 
-159. Increased cortisol secretion is apparent in about what proportion of clients with depression?
+Increased cortisol secretion is apparent in about what proportion of clients with depression?
 A. 5%
 B. 90%
 C. 10%
@@ -1272,7 +1270,7 @@ D. 40%
 Answer: D
 Why: Elevated glucocorticoid activity is associated with the stress response, with the highest rates in older clients.
 
-160. A major depressive episode lasts at least:
+A major depressive episode lasts at least:
 A. 2 weeks
 B. 1 week
 C. 4 days
@@ -1280,7 +1278,7 @@ D. 2 years
 Answer: A
 Why: Depressed mood or loss of pleasure in nearly all activities for at least 2 weeks.
 
-161. For a major depressive episode, symptoms must be present:
+For a major depressive episode, symptoms must be present:
 A. Once a week
 B. Occasionally
 C. Every day for 2 weeks with significant distress or impairment
@@ -1288,7 +1286,7 @@ D. Only in the morning
 Answer: C
 Why: They must cause significant distress or impair functioning.
 
-162. Major depressive disorder requires at least how many symptoms?
+Major depressive disorder requires at least how many symptoms?
 A. Three
 B. Five
 C. Seven
@@ -1296,7 +1294,7 @@ D. Nine
 Answer: B
 Why: At least five of the listed symptoms are required.
 
-163. Which is a symptom of major depressive disorder?
+Which is a symptom of major depressive disorder?
 A. Grandiosity
 B. Flight of ideas
 C. Decreased need for sleep
@@ -1304,7 +1302,7 @@ D. Feelings of worthlessness or guilt, or recurrent thoughts of death or suicida
 Answer: D
 Why: Other symptoms include diminished interest, appetite or sleep changes, decreased energy, and difficulty concentrating.
 
-164. Bipolar disorder is diagnosed when a person's mood:
+Bipolar disorder is diagnosed when a person's mood:
 A. Cycles between extremes of mania and depression
 B. Stays low for 2 years
 C. Is constantly elevated
@@ -1312,7 +1310,7 @@ D. Changes only with seasons
 Answer: A
 Why: Cycling between mania and depression defines bipolar disorder.
 
-165. A manic episode typically lasts about:
+A manic episode typically lasts about:
 A. 2 days
 B. 2 weeks
 C. 1 week
@@ -1320,7 +1318,7 @@ D. 2 years
 Answer: C
 Why: Mania is an abnormally elevated, expansive, or irritable mood lasting about a week unless treated sooner.
 
-166. How many symptoms are needed for a manic episode?
+How many symptoms are needed for a manic episode?
 A. One
 B. At least three
 C. At least five
@@ -1328,7 +1326,7 @@ D. At least nine
 Answer: B
 Why: At least three of the listed symptoms are present.
 
-167. Which set of symptoms is typical of mania?
+Which set of symptoms is typical of mania?
 A. Hopelessness and low energy
 B. Poor appetite and insomnia
 C. Worthlessness and guilt
@@ -1336,7 +1334,7 @@ D. Grandiosity, decreased need for sleep, talkativeness, flight of ideas, distra
 Answer: D
 Why: Also increased goal-directed activity and excessive involvement in pleasurable activities.
 
-168. Hypomania is an elevated, expansive, or irritable mood lasting:
+Hypomania is an elevated, expansive, or irritable mood lasting:
 A. 4 days
 B. 1 week
 C. 2 weeks
@@ -1344,7 +1342,7 @@ D. 2 years
 Answer: A
 Why: It is shorter than a manic episode.
 
-169. How does hypomania differ from mania?
+How does hypomania differ from mania?
 A. It lasts longer
 B. It always includes hallucinations
 C. It does not impair functioning, and there are no psychotic features
@@ -1352,7 +1350,7 @@ D. It requires hospitalization
 Answer: C
 Why: The person may be quite productive.
 
-170. A mixed episode is diagnosed when the person experiences:
+A mixed episode is diagnosed when the person experiences:
 A. Only mania
 B. Both mania and depression nearly every day for at least 1 week
 C. Only depression
@@ -1360,7 +1358,7 @@ D. Mild mood swings
 Answer: B
 Why: Both poles are present at once.
 
-171. Bipolar I disorder involves:
+Bipolar I disorder involves:
 A. Only depressive episodes
 B. Only hypomania
 C. Seasonal changes
@@ -1368,7 +1366,7 @@ D. One or more manic or mixed episodes, usually accompanied by major depressive 
 Answer: D
 Why: Mania or mixed episodes distinguish Bipolar I.
 
-172. Bipolar II disorder involves:
+Bipolar II disorder involves:
 A. One or more major depressive episodes accompanied by at least one hypomanic episode
 B. Manic episodes only
 C. Mixed episodes only
@@ -1376,7 +1374,7 @@ D. Psychosis only
 Answer: A
 Why: There is no full manic episode in Bipolar II.
 
-173. Dysthymic disorder is characterized by depressed mood for more days than not for at least:
+Dysthymic disorder is characterized by depressed mood for more days than not for at least:
 A. 2 weeks
 B. 6 months
 C. 2 years
@@ -1384,7 +1382,7 @@ D. 10 years
 Answer: C
 Why: Symptoms are less severe than major depression.
 
-174. Which symptoms are associated with dysthymic disorder?
+Which symptoms are associated with dysthymic disorder?
 A. Grandiosity and flight of ideas
 B. Poor appetite or overeating, insomnia or hypersomnia, low energy, low self-esteem, poor concentration, hopelessness
 C. Hallucinations
@@ -1392,7 +1390,7 @@ D. Echolalia
 Answer: B
 Why: These are the listed symptoms.
 
-175. Cyclothymic disorder is best described as:
+Cyclothymic disorder is best described as:
 A. Two weeks of depression
 B. A phobia
 C. A personality disorder
@@ -1400,7 +1398,7 @@ D. Two years of numerous periods of hypomanic symptoms and mild depression that 
 Answer: D
 Why: It is a mild form of bipolar II disorder.
 
-176. Which findings describe fall-onset (winter) seasonal affective disorder?
+Which findings describe fall-onset (winter) seasonal affective disorder?
 A. Increased sleep, appetite, carbohydrate cravings, weight gain, and heaviness in the extremities
 B. Insomnia and weight loss
 C. Decreased appetite only
@@ -1408,7 +1406,7 @@ D. Grandiosity
 Answer: A
 Why: It begins in late autumn and abates in spring and summer.
 
-177. Spring-onset SAD is characterized by:
+Spring-onset SAD is characterized by:
 A. Weight gain and hypersomnia
 B. Carbohydrate cravings
 C. Insomnia, weight loss, and poor appetite from late spring to early fall
@@ -1416,7 +1414,7 @@ D. Mania
 Answer: C
 Why: It is the less common subtype.
 
-178. SAD is often treated with:
+SAD is often treated with:
 A. Lithium
 B. Light therapy
 C. Flooding
@@ -1424,7 +1422,7 @@ D. Hypnosis
 Answer: B
 Why: Light therapy is the lecture's stated treatment.
 
-179. Postpartum (maternity) blues typically:
+Postpartum (maternity) blues typically:
 A. Require hospitalization
 B. Last for months
 C. Include delusions
@@ -1432,7 +1430,7 @@ D. Begin about 1 day after delivery, peak in 3 to 7 days, and subside rapidly wi
 Answer: D
 Why: They involve labile mood, crying spells, sadness, insomnia, and anxiety.
 
-180. Postpartum depression meets criteria for a major depressive episode with onset within:
+Postpartum depression meets criteria for a major depressive episode with onset within:
 A. 4 weeks of delivery
 B. 1 day of delivery
 C. 1 year of delivery
@@ -1440,7 +1438,7 @@ D. 3 days of delivery
 Answer: A
 Why: It is more serious than the blues.
 
-181. Postpartum psychosis is a psychotic episode that:
+Postpartum psychosis is a psychotic episode that:
 A. Develops within 1 year and needs no treatment
 B. Develops within 3 weeks of delivery and is a medical emergency requiring immediate treatment
 C. Is the same as postpartum blues
@@ -1448,7 +1446,7 @@ D. Is a mild form of depression
 Answer: B
 Why: It progresses to delusions, hallucinations, poor insight, and loss of contact with reality.
 
-182. Which sequence describes the progression of postpartum psychosis?
+Which sequence describes the progression of postpartum psychosis?
 A. Euphoria, then grandiosity only
 B. Phobia, then rituals
 C. Numbness, then flashbacks
@@ -1456,7 +1454,7 @@ D. Fatigue, sadness, emotional lability, poor memory, and confusion progressing 
 Answer: D
 Why: It begins like the blues but progresses to loss of contact with reality.
 
-183. Which are the antidepressant classes listed for major depressive disorder?
+Which are the antidepressant classes listed for major depressive disorder?
 A. Tricyclic antidepressants, SSRIs, and MAOIs
 B. Benzodiazepines only
 C. Anticonvulsants only
@@ -1464,7 +1462,7 @@ D. Antipsychotics only
 Answer: A
 Why: These three classes are listed in the lecture.
 
-184. Which is listed as medical management for major depressive disorder?
+Which is listed as medical management for major depressive disorder?
 A. Flooding
 B. Light therapy only
 C. Electroconvulsive therapy
@@ -1472,7 +1470,7 @@ D. Hypnosis
 Answer: C
 Why: ECT is the medical management listed.
 
-185. The action of SSRIs is:
+The action of SSRIs is:
 A. Blocking MAO
 B. Specific to serotonin reuptake inhibition
 C. Blocking dopamine only
@@ -1480,7 +1478,7 @@ D. Blocking norepinephrine only
 Answer: B
 Why: SSRIs increase serotonin and affect only serotonin.
 
-186. Which drugs are SSRIs?
+Which drugs are SSRIs?
 A. Imipramine and amitriptyline
 B. Phenelzine and Parnate
 C. Lithium and valproate
@@ -1488,7 +1486,7 @@ D. Citalopram, fluoxetine, paroxetine, sertraline, fluvoxamine
 Answer: D
 Why: These are Celexa, Prozac, Paxil, Zoloft, and Luvox.
 
-187. With SSRIs, which improvement is expected first?
+With SSRIs, which improvement is expected first?
 A. Insomnia decreases in 3 to 4 days
 B. Mood improves in 1 day
 C. Concentration improves in 2 hours
@@ -1496,7 +1494,7 @@ D. All symptoms resolve in 1 day
 Answer: A
 Why: Appetite returns in 5 to 7 days, energy in 4 to 7 days, and mood and interest in 7 to 10 days.
 
-188. SSRIs are generally effective for which depression, and what is their side-effect profile?
+SSRIs are generally effective for which depression, and what is their side-effect profile?
 A. Severe depression only, with many side effects
 B. Bipolar mania, with toxicity
 C. Mild to moderate depression, with low side effects
@@ -1504,7 +1502,7 @@ D. Psychosis, with sedation
 Answer: C
 Why: The lecture lists SSRIs as effective for mild to moderate depression with low side effects.
 
-189. Tricyclic antidepressants have a lag period before reaching a serum level that alters symptoms of about:
+Tricyclic antidepressants have a lag period before reaching a serum level that alters symptoms of about:
 A. 1 to 2 days
 B. 10 to 14 days
 C. 6 months
@@ -1512,7 +1510,7 @@ D. 1 hour
 Answer: B
 Why: Full effect takes about 6 weeks.
 
-190. Which drug is a tricyclic antidepressant?
+Which drug is a tricyclic antidepressant?
 A. Fluoxetine
 B. Lithium
 C. Phenelzine
@@ -1520,7 +1518,7 @@ D. Amitriptyline (Elavil)
 Answer: D
 Why: Others include imipramine (Tofranil), clomipramine (Anafranil), doxepin (Sinequan), nortriptyline (Aventyl).
 
-191. The mechanism of tricyclics is to:
+The mechanism of tricyclics is to:
 A. Block reuptake of norepinephrine, dopamine, and serotonin, prolonging their action
 B. Destroy serotonin
 C. Block MAO
@@ -1528,7 +1526,7 @@ D. Increase GABA
 Answer: A
 Why: They have a higher incidence of side effects than SSRIs.
 
-192. For a client taking an MAOI, the nurse should:
+For a client taking an MAOI, the nurse should:
 A. Encourage aged cheese
 B. Ignore blood pressure
 C. Monitor for hypertensive crisis and instruct to avoid tyramine-rich foods
@@ -1536,7 +1534,7 @@ D. Expect immediate relief
 Answer: C
 Why: MAOIs take 2 to 4 weeks to reach full effect.
 
-193. Which are MAOIs?
+Which are MAOIs?
 A. Citalopram and sertraline
 B. Tranylcypromine (Parnate), phenelzine (Nardil), isocarboxazid (Marplan)
 C. Imipramine and doxepin
@@ -1544,7 +1542,7 @@ D. Lorazepam and diazepam
 Answer: B
 Why: These are the MAOIs listed.
 
-194. MAOIs work by:
+MAOIs work by:
 A. Blocking serotonin reuptake
 B. Increasing GABA
 C. Blocking dopamine receptors
@@ -1552,7 +1550,7 @@ D. Blocking the enzyme monoamine oxidase, which breaks down neurotransmitters
 Answer: D
 Why: This increases serotonin, epinephrine, norepinephrine, and dopamine.
 
-195. The therapeutic lithium blood level in the lecture is:
+The therapeutic lithium blood level in the lecture is:
 A. 0.6 to 1.2 mEq/L
 B. 2.0 to 3.0 mEq/L
 C. 0.1 to 0.2 mEq/L
@@ -1560,7 +1558,7 @@ D. 5 to 6 mEq/L
 Answer: A
 Why: Levels above this range increase the risk of toxicity.
 
-196. Before starting lithium, the client should:
+Before starting lithium, the client should:
 A. Fast for 24 hours
 B. Stop all fluids
 C. Undergo a kidney test and have blood levels checked
@@ -1568,7 +1566,7 @@ D. Receive ECT
 Answer: C
 Why: Lithium is excreted by the kidneys.
 
-197. Which fluid intake is advised for a client on lithium?
+Which fluid intake is advised for a client on lithium?
 A. 500 mL per day
 B. About 3 liters per day
 C. Fluid restriction
@@ -1576,7 +1574,7 @@ D. 10 liters per day
 Answer: B
 Why: Hydration of about 3 L/day helps prevent toxicity.
 
-198. Which are side effects of lithium?
+Which are side effects of lithium?
 A. Hypertensive crisis
 B. Hallucinations
 C. Weight loss only
@@ -1584,7 +1582,7 @@ D. Increased urination, fine hand tremors, diarrhea, dry mouth
 Answer: D
 Why: These are the lecture's listed side effects.
 
-199. Which are signs of lithium toxicity?
+Which are signs of lithium toxicity?
 A. Nausea, vomiting, and diarrhea
 B. Mild thirst
 C. Improved sleep
@@ -1592,7 +1590,7 @@ D. Increased appetite
 Answer: A
 Why: These signal toxicity and require prompt reporting.
 
-200. Which drug classes are used for bipolar disorder?
+Which drug classes are used for bipolar disorder?
 A. SSRIs only
 B. Benzodiazepines only
 C. Lithium, anticonvulsants, and antipsychotics when psychosis is present
@@ -1600,7 +1598,7 @@ D. Stimulants
 Answer: C
 Why: Antipsychotics are used when the client has delusions, hallucinations, or illusions.
 
-201. Which interventions are included in nursing management of depression?
+Which interventions are included in nursing management of depression?
 A. Isolation and restraint
 B. Cognitive-behavioral therapy, safety, therapeutic relationship, promotion of ADLs and physical care, medication management
 C. Ignoring the client
@@ -1608,7 +1606,7 @@ D. Confrontation
 Answer: B
 Why: These are the listed interventions.
 
-202. What is the first priority in nursing a client with a mood disorder who is suicidal?
+What is the first priority in nursing a client with a mood disorder who is suicidal?
 A. Teaching about diet
 B. Discharge planning
 C. Promoting appropriate behavior
@@ -1616,7 +1614,7 @@ D. Providing safety to the client
 Answer: D
 Why: Safety is listed first in nursing management for mood disorders.
 
-203. Personality is best defined as:
+Personality is best defined as:
 A. A diagnosable disorder
 B. The aggregate of the physical and mental qualities of the individual as they interact in characteristic fashion with his environment
 C. A temporary mood
@@ -1624,7 +1622,7 @@ D. A defense mechanism
 Answer: B
 Why: It includes perceptions, attitudes, and emotions.
 
-204. A personality trait is:
+A personality trait is:
 A. A disorder
 B. A symptom of psychosis
 C. A defense mechanism
@@ -1632,7 +1630,7 @@ D. A characteristic that makes a person unique and forms the basis for how he pe
 Answer: D
 Why: Traits are normal characteristics of individuals.
 
-205. Personality disorder is:
+Personality disorder is:
 A. A pervasive pattern of behavior and inner experience that is quite different from the norms of the culture
 B. A brief reaction to stress
 C. A learned phobia
@@ -1640,7 +1638,7 @@ D. A mood episode
 Answer: A
 Why: It includes disturbed self-image and decreased ability to have successful relationships.
 
-206. What is the hallmark of personality disorders?
+What is the hallmark of personality disorders?
 A. Hallucinations
 B. Delusions
 C. Maladaptive behavior patterns
@@ -1648,7 +1646,7 @@ D. Amnesia
 Answer: C
 Why: The lecture names maladaptive behavior patterns as the hallmark.
 
-207. Which statement about personality traits in PD is correct?
+Which statement about personality traits in PD is correct?
 A. They change easily
 B. They are rigid and inflexible, and once established are extremely resistant but not impossible to change
 C. They are impossible to change
@@ -1656,7 +1654,7 @@ D. They cause no anxiety
 Answer: B
 Why: They increase anxiety and prevent interpersonal relationships.
 
-208. The onset of personality disorders typically begins in:
+The onset of personality disorders typically begins in:
 A. Infancy
 B. Middle age
 C. Old age
@@ -1664,7 +1662,7 @@ D. Adolescence and young adulthood
 Answer: D
 Why: This is the lecture's stated onset.
 
-209. Which behaviors are forms of acting out in PD?
+Which behaviors are forms of acting out in PD?
 A. Physical and verbal attacks, manipulation, substance abuse, promiscuous sexual behavior, suicide attempts
 B. Quiet reading
 C. Exercise
@@ -1672,7 +1670,7 @@ D. Journaling
 Answer: A
 Why: Acting out is used to manage internal pain.
 
-210. Which mood characteristics are seen in PD?
+Which mood characteristics are seen in PD?
 A. Euphoria only
 B. Calmness
 C. Abandonment and depression, with rage, guilt, fear, and emptiness
@@ -1680,7 +1678,7 @@ D. Indifference only
 Answer: C
 Why: These are listed under mood characteristics.
 
-211. Impaired reality testing in PD means the client:
+Impaired reality testing in PD means the client:
 A. Hears voices constantly
 B. Distorts reality and often projects own feelings onto others
 C. Has no perception
@@ -1688,7 +1686,7 @@ D. Has amnesia
 Answer: B
 Why: Reality distortion and projection are listed.
 
-212. Impaired judgment in PD means:
+Impaired judgment in PD means:
 A. Excellent decision making
 B. Fear of decisions
 C. Memory loss
@@ -1696,7 +1694,7 @@ D. Difficulty with problem solving and inability to perceive consequences of beh
 Answer: D
 Why: These are the lecture's descriptors.
 
-213. Impaired self-perception in PD means:
+Impaired self-perception in PD means:
 A. Distorted self-perception with self-hate or self-idealization
 B. Accurate self-image
 C. Loss of identity
@@ -1704,7 +1702,7 @@ D. Dissociation
 Answer: A
 Why: It is listed as distorted self-perception.
 
-214. Cluster A personality disorders are described as:
+Cluster A personality disorders are described as:
 A. Dramatic and emotional
 B. Anxious and fearful
 C. Odd and eccentric
@@ -1712,7 +1710,7 @@ D. Covertly aggressive
 Answer: C
 Why: Clients are withdrawn and engage in odd behavior.
 
-215. Cluster B personality disorders are described as:
+Cluster B personality disorders are described as:
 A. Odd and eccentric
 B. Erratic, dramatic, and emotional
 C. Anxious and fearful
@@ -1720,7 +1718,7 @@ D. Passive
 Answer: B
 Why: Cluster B clients are attention seekers.
 
-216. Cluster C personality disorders are described as:
+Cluster C personality disorders are described as:
 A. Odd
 B. Dramatic
 C. Erratic
@@ -1728,7 +1726,7 @@ D. Anxious and fearful, seeking to avoid or minimize anxiety
 Answer: D
 Why: Cluster C includes avoidant, dependent, and obsessive-compulsive.
 
-217. Which disorders belong to Cluster A?
+Which disorders belong to Cluster A?
 A. Paranoid, schizoid, schizotypal
 B. Antisocial, borderline, histrionic, narcissistic
 C. Avoidant, dependent, obsessive-compulsive
@@ -1736,7 +1734,7 @@ D. Passive-aggressive
 Answer: A
 Why: These are the odd and eccentric disorders.
 
-218. Which personality disorder is listed as "not specified" and described as covertly aggressive?
+Which personality disorder is listed as "not specified" and described as covertly aggressive?
 A. Narcissistic
 B. Borderline
 C. Passive-aggressive
@@ -1744,7 +1742,7 @@ D. Dependent
 Answer: C
 Why: Passive-aggressive PD is categorized outside the three clusters.
 
-219. The prevalence rate of personality disorders given in the lecture is:
+The prevalence rate of personality disorders given in the lecture is:
 A. 1.3%
 B. 13.4%
 C. 50%
@@ -1752,7 +1750,7 @@ D. 0.2%
 Answer: B
 Why: The most common are avoidant, schizoid, and paranoid.
 
-220. The etiology of personality disorders is:
+The etiology of personality disorders is:
 A. A single clear cause
 B. Brain tumor
 C. Infection
@@ -1760,7 +1758,7 @@ D. Largely unknown, with multiple causes including genetic, environmental factor
 Answer: D
 Why: There is no clear-cut single cause.
 
-221. Schizoid personality disorder is characterized by:
+Schizoid personality disorder is characterized by:
 A. A pervasive pattern of detachment from social relationships and restricted range of emotional expression
 B. Magical thinking
 C. Mistrust
@@ -1768,7 +1766,7 @@ D. Need for attention
 Answer: A
 Why: These clients avoid treatment as much as they avoid relationships.
 
-222. Which assessment findings apply to schizoid PD?
+Which assessment findings apply to schizoid PD?
 A. Seductive behavior
 B. Grandiosity
 C. Aloofness, interest in solitary activities, indifference to praise and criticism, lack of future goals
@@ -1776,7 +1774,7 @@ D. Impulsivity
 Answer: C
 Why: They may succeed in jobs like computers with little contact with others.
 
-223. Which findings are characteristic of schizotypal PD?
+Which findings are characteristic of schizotypal PD?
 A. Charm
 B. Magical thinking, odd thinking and ideas of reference, bizarre speech, flat affect, anxiety around others
 C. Dramatics
@@ -1784,7 +1782,7 @@ D. Perfectionism
 Answer: B
 Why: Schizotypal PD includes cognitive or perceptual distortions and eccentric behavior.
 
-224. Nursing management for schizotypal PD includes:
+Nursing management for schizotypal PD includes:
 A. Confrontation
 B. Isolation
 C. Limit setting only
@@ -1792,7 +1790,7 @@ D. Encouraging daily hygiene and grooming routines, role playing interactions, a
 Answer: D
 Why: The goal is improved self-care and social functioning in the community.
 
-225. Paranoid PD is characterized by:
+Paranoid PD is characterized by:
 A. Pervasive mistrust and suspiciousness of others, interpreting others' actions as potentially harmful
 B. Clinging behavior
 C. Perfectionism
@@ -1800,7 +1798,7 @@ D. Seductiveness
 Answer: A
 Why: Transient psychotic symptoms may occur during stress.
 
-226. Which defense mechanism is used by clients with paranoid PD to blame others?
+Which defense mechanism is used by clients with paranoid PD to blame others?
 A. Denial
 B. Repression
 C. Projection
@@ -1808,7 +1806,7 @@ D. Sublimation
 Answer: C
 Why: Projection is the lecture's stated defense mechanism.
 
-227. Which nursing approach is best for a client with paranoid PD?
+Which nursing approach is best for a client with paranoid PD?
 A. Joking and teasing
 B. A serious, straightforward approach, teaching the client to validate ideas before acting, and involving him in care planning
 C. Whispering with other staff
@@ -1816,7 +1814,7 @@ D. Vague explanations
 Answer: B
 Why: Honesty and involvement build trust.
 
-228. Antisocial PD is characterized by:
+Antisocial PD is characterized by:
 A. Clinging
 B. Perfectionism
 C. Detachment
@@ -1824,7 +1822,7 @@ D. A pervasive pattern of disregard for and violation of the rights of others, w
 Answer: D
 Why: Onset is in childhood or adolescence but diagnosis is made at 18.
 
-229. Which is characteristic of clients with antisocial PD?
+Which is characteristic of clients with antisocial PD?
 A. Skill at deceiving others, no shame or guilt, inability to empathize, poor judgment, easily bored
 B. Intense guilt
 C. Hallucinations
@@ -1832,7 +1830,7 @@ D. Low IQ
 Answer: A
 Why: They are oriented, with average or above-average IQs.
 
-230. Which nursing intervention is most important for antisocial PD?
+Which nursing intervention is most important for antisocial PD?
 A. Giving gifts
 B. Allowing rule breaking
 C. Limit setting, and teaching problem-solving and anger/frustration management
@@ -1840,7 +1838,7 @@ D. Ignoring the behavior
 Answer: C
 Why: Limits decrease manipulative behavior.
 
-231. Borderline PD is characterized by:
+Borderline PD is characterized by:
 A. Detachment
 B. A pervasive pattern of unstable interpersonal relationships, self-image, and affect, with marked impulsivity
 C. Grandiosity
@@ -1848,7 +1846,7 @@ D. Perfectionism
 Answer: B
 Why: The pervasive mood is dysphoric.
 
-232. "Splitting" in borderline PD refers to:
+"Splitting" in borderline PD refers to:
 A. Physical separation
 B. Dissociation
 C. Memory loss
@@ -1856,7 +1854,7 @@ D. Extreme, all-or-nothing thinking about self and others
 Answer: D
 Why: Thinking is often extreme.
 
-233. Which fear is characteristic of borderline PD?
+Which fear is characteristic of borderline PD?
 A. Extreme fear of abandonment, with difficulty believing a relationship exists once the person is away
 B. Fear of heights
 C. Fear of crowds
@@ -1864,7 +1862,7 @@ D. Fear of authority
 Answer: A
 Why: They also have self-destructive behavior and cannot tolerate anxiety.
 
-234. Which nursing interventions apply to borderline PD?
+Which nursing interventions apply to borderline PD?
 A. Encourage dependence
 B. Ignore self-harm
 C. Promote safety, help cope with and control emotions, use cognitive restructuring, teach socialization skills
@@ -1872,7 +1870,7 @@ D. Avoid limits
 Answer: C
 Why: These are the listed interventions.
 
-235. Histrionic PD is characterized by:
+Histrionic PD is characterized by:
 A. Detachment
 B. Excessive emotionality and attention seeking
 C. Suspiciousness
@@ -1880,7 +1878,7 @@ D. Perfectionism
 Answer: B
 Why: These clients are lively, dramatic, and enjoy being the center of attention.
 
-236. Which nursing interventions are used for histrionic PD?
+Which nursing interventions are used for histrionic PD?
 A. Giving praise for every complaint
 B. Ignoring the client
 C. Joining the drama
@@ -1888,7 +1886,7 @@ D. Teaching social skills and providing factual feedback about behavior
 Answer: D
 Why: Factual feedback replaces theatrical responses.
 
-237. Narcissistic PD is characterized by:
+Narcissistic PD is characterized by:
 A. Grandiosity, need for admiration, and lack of empathy
 B. Clinging
 C. Mistrust
@@ -1896,7 +1894,7 @@ D. Social inhibition
 Answer: A
 Why: They overestimate abilities and underestimate others' contributions.
 
-238. A client with narcissistic PD becomes angry when he does not receive special treatment. Which nursing approach is best?
+A client with narcissistic PD becomes angry when he does not receive special treatment. Which nursing approach is best?
 A. Argue
 B. Give special treatment
 C. A matter-of-fact (straightforward and unemotional) approach
@@ -1904,7 +1902,7 @@ D. Ignore him
 Answer: C
 Why: The nurse gains cooperation and teaches self-care skills.
 
-239. Avoidant PD is characterized by:
+Avoidant PD is characterized by:
 A. Grandiosity
 B. Social discomfort and reticence, low self-esteem, and hypersensitivity to negative evaluation
 C. Mistrust
@@ -1912,7 +1910,7 @@ D. Impulsivity
 Answer: B
 Why: These clients fear rejection and criticism and lack a support system.
 
-240. Nursing interventions for avoidant PD include:
+Nursing interventions for avoidant PD include:
 A. Confrontation
 B. Isolation
 C. Limit setting
@@ -1920,7 +1918,7 @@ D. Support and reassurance, cognitive restructuring, and promotion of self-estee
 Answer: D
 Why: These address inadequacy and fear of criticism.
 
-241. Dependent PD is characterized by:
+Dependent PD is characterized by:
 A. A pervasive and excessive need to be taken care of, leading to submissive, clinging behavior and fear of separation
 B. Detachment
 C. Manipulation
@@ -1928,7 +1926,7 @@ D. Superiority
 Answer: A
 Why: They have difficulty making decisions and cannot tolerate being alone.
 
-242. Nursing interventions for dependent PD include:
+Nursing interventions for dependent PD include:
 A. Making decisions for the client
 B. Encouraging reliance
 C. Fostering self-reliance and autonomy, and teaching problem-solving and decision-making
@@ -1936,7 +1934,7 @@ D. Discharging early
 Answer: C
 Why: Autonomy replaces dependence.
 
-243. Obsessive-compulsive PD is characterized by:
+Obsessive-compulsive PD is characterized by:
 A. Impulsivity
 B. Preoccupation with perfectionism, mental and interpersonal control, and orderliness at the expense of flexibility
 C. Dramatics
@@ -1944,7 +1942,7 @@ D. Detachment
 Answer: B
 Why: These clients are devoted to work, lack leisure, are miserly, and may hoard worthless objects.
 
-244. Nursing interventions for obsessive-compulsive PD include:
+Nursing interventions for obsessive-compulsive PD include:
 A. Encouraging rigid rules
 B. Giving unlimited time
 C. Doing tasks for the client
@@ -1952,7 +1950,7 @@ D. Encouraging negotiation, helping make timely decisions and complete work, cog
 Answer: D
 Why: These counter inflexibility and indecision.
 
-245. Passive-aggressive PD is characterized by:
+Passive-aggressive PD is characterized by:
 A. Passive resistance to demands for adequate social and occupational performance, with a negative attitude
 B. Grandiosity
 C. Clinging
@@ -1960,7 +1958,7 @@ D. Detachment
 Answer: A
 Why: Clients complain of being misunderstood and unappreciated.
 
-246. How do passive-aggressive clients express resistance?
+How do passive-aggressive clients express resistance?
 A. Open aggression
 B. Withdrawal
 C. Procrastination, forgetfulness, stubbornness, and intentional inefficiency
@@ -1968,7 +1966,7 @@ D. Seduction
 Answer: C
 Why: This is especially true in response to tasks assigned by authority figures.
 
-247. Which is a recommended way to handle manipulative behavior?
+Which is a recommended way to handle manipulative behavior?
 A. Accept small gifts
 B. Set clear, realistic limits and confront the client about manipulative behavior
 C. Keep the client's behavior secret
@@ -1976,7 +1974,7 @@ D. Give extra favors
 Answer: B
 Why: The nurse accepts no gift or flattery and forms a therapeutic relationship.
 
-248. How should the nurse communicate with other staff about a manipulative client?
+How should the nurse communicate with other staff about a manipulative client?
 A. Avoid communication
 B. Share only verbal reports
 C. Let each nurse decide
@@ -1984,7 +1982,7 @@ D. Clearly and consistently communicate care plans and client behaviors to other
 Answer: D
 Why: Consistency prevents splitting.
 
-249. Which action is recommended when a client's attention-seeking behavior occurs in a group?
+Which action is recommended when a client's attention-seeking behavior occurs in a group?
 A. Remove the client from the group situation
 B. Praise the behavior
 C. Give a gift
@@ -1992,11 +1990,10 @@ D. Ignore the group
 Answer: A
 Why: Realistic praise is given for positive behavior in social situations.
 
-250. Which interventions are part of general nursing management for personality disorders?
+Which interventions are part of general nursing management for personality disorders?
 A. Allowing manipulation
 B. Using inconsistent responses
 C. Providing a written contract, encouraging journaling, limit setting, safety, consistency, and a therapeutic relationship
 D. Isolating the client
 Answer: C
 Why: Consistency, limits, and discussing feelings rather than acting them out are central.
-
